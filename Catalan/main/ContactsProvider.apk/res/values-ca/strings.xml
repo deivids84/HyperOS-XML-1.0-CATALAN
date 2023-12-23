@@ -16,7 +16,6 @@
     <string name="provider_label">Contactes</string>
     <string name="sharedUserLabel">Aplicacions del nucli d\'Android</string>
     <string name="sim_state_changed">S\'ha canviat la targeta SIM</string>
-    <string name="third_party_delete_contact_info">"\"%s\" intenta eliminar els teus contactes. Aquesta acció no pot realitzar-se per aplicacions de tercers. Per eliminar contactes, feu servir l'aplicació integrada de contactes de MIUI."</string>
     <string name="update_accounts_changed">Comptes canviats</string>
     <string name="upgrade_out_of_memory_notification_text">Toqueu per completar l\'actualització.</string>
     <string name="upgrade_out_of_memory_notification_ticker">L\'actualització de contactes necessita més memòria.</string>

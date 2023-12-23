@@ -21,6 +21,8 @@
     <string name="clearable_edittext_clear_description">Esborra</string>
     <string name="click_to_restore">Restaura els elements del sistema per a poder fer servir MIUI amb normalitat després d\'un restabliment de fàbrica. Prem per a començar.</string>
     <string name="close">Tanca</string>
+    <string name="com_android_deskclock">Rellotge</string>
+    <string name="com_android_download_ui">Descarrega</string>
     <string name="com_android_email">Correu</string>
     <string name="com_android_soundrecorder">Gravadora</string>
     <string name="com_mi_globalbrowser">Navegador Mi</string>
@@ -28,12 +30,14 @@
     <string name="com_miui_calculator">Calculadora</string>
     <string name="com_miui_cleanmaster">Netejador</string>
     <string name="com_miui_compass">Brúixola</string>
+    <string name="com_miui_gallery">Galeria</string>
     <string name="com_miui_health">Xiaomi Health</string>
     <string name="com_miui_huanji">Mi Mover</string>
     <string name="com_miui_notes">Notes</string>
     <string name="com_miui_screenrecorder">Gravadora de pantalla</string>
     <string name="com_miui_virtualsim">Itinerància Mi</string>
     <string name="com_miui_weather2">El temps</string>
+    <string name="com_xiaomi_calendar">Calendari</string>
     <string name="com_xiaomi_drivemode">Mode cotxe</string>
     <string name="com_xiaomi_gamecenter">Jocs</string>
     <string name="com_xiaomi_jr">Mi Finances</string>

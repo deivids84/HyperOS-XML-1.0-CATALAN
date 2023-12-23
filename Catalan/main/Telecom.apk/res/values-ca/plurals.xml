@@ -5,16 +5,16 @@
         <item quantity="other">Fa 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Fa 1 hora</item>
-        <item quantity="other">Fa 1 hora</item>
+        <item quantity="one">Fa %d hora</item>
+        <item quantity="other">Fa %d hores</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
         <item quantity="other">Fa mitja hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">En 1 hora</item>
-        <item quantity="other">En 1 hora</item>
+        <item quantity="one">En %d hora</item>
+        <item quantity="other">En %d hores</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">En mitja hora</item>
@@ -25,16 +25,16 @@
         <item quantity="other">Immediatament</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">d\'aquí a %d min</item>
-        <item quantity="one">en 1 min</item>
+        <item quantity="other">En %d mins</item>
+        <item quantity="one">En %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ara mateix</item>
         <item quantity="other">Ara mateix</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Fa %d</item>
-        <item quantity="one">Fa 1 min</item>
+        <item quantity="other">Fa %d minuts</item>
+        <item quantity="one">Fa %d minut</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
@@ -61,23 +61,19 @@
         <item quantity="other">Ara mateix</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d elements seleccionats</item>
-        <item quantity="one">%d element seleccionat</item>
+        <item quantity="other">%d elements sel·leccionats</item>
+        <item quantity="one">%d element sel·leccionat</item>
     </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d notificacions noves</item>
-        <item quantity="one">%d notificació nova</item>
+    <plurals name="notification_All_AI_MissedCallTitle">
+        <item quantity="other">Mi AI va respondre %1$d Truca per a tu</item>
+        <item quantity="one">Mi AI va respondre %1$d Truca per tu</item>
     </plurals>
     <plurals name="notification_missedCallTitle_miui">
         <item quantity="other">Trucades perdudes</item>
         <item quantity="one">Trucada perduda</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">Fa %d</item>
+        <item quantity="other">Fa %d minuts</item>
         <item quantity="one">Fa 1 minut</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d dispositius connectats</item>
-        <item quantity="one">%1$d dispositiu connectat</item>
     </plurals>
 </resources>

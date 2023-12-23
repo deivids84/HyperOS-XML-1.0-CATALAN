@@ -72,6 +72,10 @@
         <item>Àudio ™ ® qualcomm®</item>
         <item>Àudio HD ® Qualcomm™®</item>
         <item>LDAC</item>
+        <item>LC3</item>
+        <item>Opus</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Utilitza la selecció del sistema (per defecte)</item>
@@ -80,11 +84,15 @@
         <item>Àudio ™ ® qualcomm®</item>
         <item>Àudio HD ® Qualcomm™®</item>
         <item>LDAC</item>
+        <item>LC3</item>
+        <item>Opus</item>
+        <item>Qualcomm® aptX™ Àudio adaptatiu</item>
+        <item>Qualcomm® aptX™ TWS+ àudio</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
-        <item>actiu</item>
-        <item>, actiu (mitjans de comunicació)</item>
+        <item>, actiu</item>
+        <item>, actiu (multimèdia)</item>
         <item>, actiu (telèfon)</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
@@ -102,6 +110,20 @@
         <item>Discapacitat</item>
         <item>Filtrat habilitat</item>
         <item>Permès</item>
+        <item>Capçaleres habilitades filtrades</item>
+        <item>Mitjans de comunicació activats Pkts filtrat</item>
+        <item>Perfils activats filtrats</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_filters_entries">
+        <item>Deixeu només les capçaleres ACL</item>
+        <item>Filtrar paquets multimèdia A2DP</item>
+        <item>Filtrar canal RFCOMM</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_profile_filter_entries">
+        <item>Inutilitzar</item>
+        <item>Omple amb cadena de caràcters</item>
+        <item>Deixa només la capçalera</item>
+        <item>Suprimeix completament</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Colors millorats</item>
@@ -192,16 +214,11 @@
         <item>Escala d\'animació 5x</item>
         <item>Escala d\'animació 10x</item>
     </string-array>
-    <string-array name="tts_rate_entries">
-        <item>Molt lent</item>
-        <item>Lent</item>
-        <item>Normal</item>
-        <item>Ràpid</item>
-        <item>Ràpid</item>
-        <item>Molt ràpid</item>
-        <item>Ràpid</item>
-        <item>Molt ràpid</item>
-        <item>Més ràpid</item>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Mou-te a l\'esquerra</item>
+        <item>Moure cap avall</item>
+        <item>Mou-te a la dreta</item>
+        <item>Pujar</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Càrrega</item>

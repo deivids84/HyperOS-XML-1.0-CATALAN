@@ -182,7 +182,6 @@ de l'IMAP"</string>
     <string name="allow_notify">Permet notificacions</string>
     <string name="always_bcc_myself">Fer sempre BCC a un mateix</string>
     <string name="am">a. m.</string>
-    <string name="app_loading">S\'està carregant…</string>
     <string name="app_name">Correu</string>
     <string name="appraise_des">Us agrada la nostra aplicació?</string>
     <string name="appraise_good">Sí</string>
@@ -231,6 +230,7 @@ de l'IMAP"</string>
     <string name="attendee_needed">Afegeix un convidat com a mínim.</string>
     <string name="auto_login_fail">"No s'ha pogut iniciar sessió automàticament"</string>
     <string name="auto_login_fail_to_retry">"No s'ha pogut iniciar sessió automàticament. Proveu-ho de nou."</string>
+    <string name="auto_start_open_prompt">Permeteu que l\'aplicació s\'iniciï automàticament perquè pugui sincronitzar els correus electrònics. Podeu concedir aquest permís a Configuració.</string>
     <string name="bContact_list_search_hint">Cerca contactes bloquejats</string>
     <string name="b_contacts">Llista de bloqueig</string>
     <string name="b_contacts_remove">Treu de la llista de bloquejats</string>
@@ -243,16 +243,11 @@ de l'IMAP"</string>
     <string name="body_inline_pic_text">[Picture]</string>
     <string name="bottom_bar_more_pdf">Exporta PDF</string>
     <string name="bottom_bar_more_pdf_exporting">S\'està exportant…</string>
-    <string name="broker_helper_manifest">Filtre d\'intenció per a AndroidManifest.xml</string>
-    <string name="broker_helper_package">Nom del paquet que cal introduir en registrar l\'aplicació</string>
-    <string name="broker_helper_redirect">Redirecció de l\'URI per al fitxer json de configuració</string>
-    <string name="broker_helper_signature">Signatura a introduir en registrar-se a l\'aplicació</string>
-    <string name="broker_helper_title">Informació de l\'URI de redirecció MSAL</string>
-    <string name="broker_processing">Broker està processant</string>
     <string name="calendar_remind_dialog_title">Afegeix al calendari</string>
     <string name="calendar_remind_gridview_pick_date">Seleccionar data</string>
     <string name="cancel">Cancel·leu</string>
     <string name="cancel_action">Cancel·leu</string>
+    <string name="cancel_edit">Para l\'edició</string>
     <string name="cc">CC</string>
     <string name="cc_bcc">CC/BCC</string>
     <string name="cc_heading">"CC: "</string>
@@ -398,6 +393,7 @@ de l'IMAP"</string>
     <string name="drive_card_code">"Codi d'accés: "</string>
     <string name="drive_card_tips">%s compartit amb vosaltres un element emmagatzemat al núvol.</string>
     <string name="drive_card_title">URL d\'emmagatzematge al núvol</string>
+    <string name="drop_sign_operation">Deixeu d\'editar i descarteu tots els canvis ara?</string>
     <string name="dtend">Acaba</string>
     <string name="dtstart">Comença</string>
     <string name="early_morning">Matí</string>
@@ -550,11 +546,6 @@ de l'IMAP"</string>
     <string name="hide_password">Amaga la contrasenya</string>
     <string name="hierarchical_folder_parent_top_ellip">%1$s∕&#8230;∕%2$s∕</string>
     <string name="how_to_login_icloud">Com iniciar la sessió al correu de l\'iCloud</string>
-    <string name="http_auth_dialog_cancel">Cancel·la</string>
-    <string name="http_auth_dialog_login">Inicia sessió</string>
-    <string name="http_auth_dialog_password">Contrasenya</string>
-    <string name="http_auth_dialog_title">Introduïu les vostres credencials</string>
-    <string name="http_auth_dialog_username">Nom d\'usuari</string>
     <string name="icloud_login_tips">Pots crear una contrasenya per utilitzar-la amb el correu de l\'iCloud aquí: iCloud.com</string>
     <string name="icloud_login_tips_url_part">iCloud.com</string>
     <string name="icon_content_description">Icona de diàleg</string>
@@ -670,6 +661,7 @@ Aquest problema pot ser causat per l'autenticació de dos factors del compte. Pr
     <string name="message_all_body">Missatge sencer</string>
     <string name="message_body_load_set_description">Carregar correus electrònics quan es facin servir dades mòbils</string>
     <string name="message_discarded">Esborrany descartat</string>
+    <string name="message_forward_has_signature_pdf">Reenvieu fitxers adjunts en PDF signats?</string>
     <string name="message_invite_accept">Sí</string>
     <string name="message_invite_calendar_download_prompt">Baixeu el Calendari per poder utilitzar aquesta funció</string>
     <string name="message_invite_calendar_view">Veure en el calendari</string>
@@ -685,15 +677,16 @@ Aquest problema pot ser causat per l'autenticació de dos factors del compte. Pr
     <string name="midnight">Nit</string>
     <string name="miuix_access_state_desc">Seleccionat</string>
     <string name="miuix_alphabet_indexer_name">Barra d’índex</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Anul·la la selecció</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarqueu-ho tot</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccioneu-ho tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecciona elements</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Més</string>
     <string name="miuix_appcompat_cancel_description">Cancel·leu</string>
     <string name="miuix_appcompat_confirm_description">Confirma</string>
     <string name="miuix_appcompat_delete_description">Suprimeix</string>
-    <string name="miuix_appcompat_deselect_all">Anul·la la selecció</string>
+    <string name="miuix_appcompat_deselect_all">Desmarqueu-ho tot</string>
     <string name="miuix_appcompat_deselect_all_description">Desseleccioneu-ho tot</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel·leu</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
     <string name="miuix_appcompat_select_all">Seleccioneu-ho tot</string>
@@ -709,11 +702,6 @@ Aquest problema pot ser causat per l'autenticació de dos factors del compte. Pr
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Això és tot per ara"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un segon…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No s'han pogut carregar els elements"</string>
-    <string name="miuix_search_action_mode_cancel">Cancel·lar</string>
-    <string name="miuix_search_history_clear">Esborra l\'historial de cerques</string>
-    <string name="miuix_search_history_default_title">Historial de cerques</string>
-    <string name="miuix_search_recommendation_default_title">Potser t\'interessen aquests</string>
-    <string name="miuix_search_recommendation_item_del_des">Esborrar</string>
     <string name="monday">Dilluns</string>
     <string name="monday_short">Dl.</string>
     <string name="monday_shortest">dl.</string>
@@ -856,6 +844,7 @@ Aquest problema pot ser causat per l'autenticació de dos factors del compte. Pr
     <string name="open_pdf_error">"No s'ha pogut obrir el PDF. Instal·leu un lector de PDF i torneu-ho a provar."</string>
     <string name="operation_settging">Accions</string>
     <string name="optimization_suggestion">Suggeriments d\'optimització</string>
+    <string name="other_pdf_open">Obert amb…</string>
     <string name="others_mail">Altres</string>
     <string name="outbox_alert_button_no_resend">"No l'envieu"</string>
     <string name="outbox_alert_button_resend">Tornar a enviar</string>
@@ -892,6 +881,7 @@ Aquest problema pot ser causat per l'autenticació de dos factors del compte. Pr
     <string name="pdf_has_signature_prompt_confirm">Còpia signada</string>
     <string name="pdf_has_signature_prompt_message">Sembla que aquest fitxer adjunt té una còpia signada. Voleu obrir-lo?</string>
     <string name="pdf_save_error">"No es pot convertir a PDF. Aquest missatge és massa llarg."</string>
+    <string name="pdf_save_local">"Desat al dispositiu correctament: "</string>
     <string name="pdf_save_no_body">Espereu fins que el missatge es carregui completament abans de convertir-lo a PDF</string>
     <string name="pdf_save_to">"Desat a "</string>
     <string name="pdf_signature_add">Afegeix una signatura nova</string>
@@ -900,8 +890,6 @@ Aquest problema pot ser causat per l'autenticació de dos factors del compte. Pr
     <string name="pdf_signature_manager_max_count">"No es poden afegir més signatures. Suprimiu signatures antigues per afegir-ne de noves."</string>
     <string name="pdf_signature_manager_title">Gestionar les signatures</string>
     <string name="pdf_signature_select">Seleccioneu la signatura</string>
-    <string name="pdf_viewer_actionbar_more_other">Altres aplicacions</string>
-    <string name="pdf_viewer_actionbar_more_wps">Obert en WPS</string>
     <string name="pdf_viewer_file_damage_toast">El fitxer PDF està malmès. Comproveu aquest fitxer i torneu-ho a provar.</string>
     <string name="pdf_viewer_new_email">Envia</string>
     <string name="pdf_viewer_reply">Respon</string>
@@ -931,6 +919,7 @@ Aquest problema pot ser causat per l'autenticació de dos factors del compte. Pr
     <string name="personal_data_collection_summary">En activar l’interruptor, acceptes que recopilem les teves dades personals. Pots desactivar l\'interruptor, revocar l’autorització i suprimir les dades dels nostres servidors en qualsevol moment.</string>
     <string name="personal_data_collection_title">Permet que es recopilin les dades personals</string>
     <string name="pl_select_age">Selecciona l\'edat</string>
+    <string name="please_save_sign_first">Desa primer la signatura</string>
     <string name="pm">p. m.</string>
     <string name="preference_copied">\"%1$s\" s\'ha copiat al porta-retalls</string>
     <string name="preferences_signature_dialog_title">Signatura</string>
@@ -1010,6 +999,7 @@ Espereu fins que se sincronitzi completament o vegeu el missatge al vostre ordin
     <string name="saturday_short">Ds.</string>
     <string name="saturday_shortest">ds.</string>
     <string name="save_draft_failed">Error en desar l\'esborrany</string>
+    <string name="save_sign_pdf">Desar al dispositiu</string>
     <string name="search_bar_text">Cerca remitents o contactes</string>
     <string name="search_menu_title">Cerca</string>
     <string name="search_remote_again">"No s'ha pogut connectar a la xarxa. Proveu-ho de nou més tard."</string>
@@ -1077,6 +1067,7 @@ Espereu fins que se sincronitzi completament o vegeu el missatge al vostre ordin
     <string name="sign_in_dialog_office365">Office365 Edició personal</string>
     <string name="sign_in_dialog_outlook_enterprise">Office365 Exchange Enterprise Edition</string>
     <string name="sign_in_dialog_outlook_imap">IMAP (sense calendari)</string>
+    <string name="sign_in_dialog_title">Trieu el mètode d\'inici de sessió</string>
     <string name="sign_in_no_useful_provider_error">"No es poden obtenir configuracions de protocols de Microsoft. Utilitzeu un protocol diferent o actualitzeu el protocol de Microsoft."</string>
     <string name="signature">"
 
@@ -1197,6 +1188,7 @@ Espereu fins que se sincronitzi completament o vegeu el missatge al vostre ordin
     <string name="train_card_title_change">La reserva s\'ha canviat correctament</string>
     <string name="train_card_title_change_arrival">S\'ha canviat correctament la destinació</string>
     <string name="train_card_title_refund">El bitllet s\'ha cancel·lat correctament</string>
+    <string name="translated_text_too_long">Seleccioneu menys text per copiar i torneu-ho a provar</string>
     <string name="translation_loading">Un moment…</string>
     <string name="translation_no_result">Sense resultats</string>
     <string name="translation_pronunciation_am">Anglès americà</string>

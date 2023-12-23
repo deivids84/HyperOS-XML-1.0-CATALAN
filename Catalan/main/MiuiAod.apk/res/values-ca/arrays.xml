@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="device_support_pickup_by_MTK">
-        <item>cactus</item>
-        <item>cereus</item>
-        <item>lotus</item>
+    <string-array name="kg_glass_filters">
+        <item>Original</item>
+        <item>Entelar</item>
+        <item>Canya</item>
+        <item>Canalé</item>
+        <item>Prisma</item>
+        <item>Solcs</item>
+        <item>Ones</item>
+        <item>Places</item>
     </string-array>
 </resources>

@@ -84,6 +84,13 @@
         <item>Greu</item>
         <item>Més enllà de l\'índex</item>
     </string-array>
+    <string-array name="breeze">
+        <item>&lt;Força 2</item>
+        <item>&lt;6.0km/h</item>
+        <item>&lt;1.7m/s</item>
+        <item>&lt;3.7mph</item>
+        <item>&lt;3.2kn</item>
+    </string-array>
     <string-array name="hot_city">
         <item>Pequín</item>
         <item>Xangai</item>
@@ -113,6 +120,39 @@
         <item>Moderada</item>
         <item>Lleugera</item>
     </string-array>
+    <string-array name="pollution_level_desc_arr">
+        <item>Excel·lent</item>
+        <item>Bo</item>
+        <item>Lleugerament contaminat</item>
+        <item>Moderadament contaminat</item>
+        <item>Molt contaminat</item>
+        <item>Molt contaminat</item>
+        <item>Més enllà de l\'índex</item>
+    </string-array>
+    <string-array name="realtime_humidity_status">
+        <item>Sec</item>
+        <item>Còmode</item>
+        <item>Humit</item>
+    </string-array>
+    <string-array name="realtime_pressure_status">
+        <item>Alt</item>
+        <item>Moderar</item>
+        <item>Baix</item>
+    </string-array>
+    <string-array name="realtime_temperature_status">
+        <item>Fred</item>
+        <item>Fresc</item>
+        <item>Còmode</item>
+        <item>Càlid</item>
+        <item>Calent</item>
+    </string-array>
+    <string-array name="realtime_uv_level">
+        <item>Dèbil</item>
+        <item>Moderar</item>
+        <item>Fort</item>
+        <item>Molt fort</item>
+        <item>Greu</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Serè</item>
         <item>Ennuvolat</item>
@@ -135,7 +175,7 @@
         <item>Temporal fort de sorra</item>
         <item>Temporal de sorra</item>
         <item>Sorra</item>
-        <item>Ventós</item>
+        <item>Tempesta de pols</item>
         <item>Pedra</item>
         <item>Pols</item>
         <item>Calitja</item>
@@ -168,6 +208,12 @@
         <item>Metres per segon (m/s)</item>
         <item>Milles per hora (mph)</item>
         <item>Nus (kn)</item>
+    </string-array>
+    <string-array name="wind_unit_no_translate">
+        <item>km/h</item>
+        <item>m/s</item>
+        <item>Mph</item>
+        <item>Kn</item>
     </string-array>
     <string-array name="wind_unit_replace">
         <item>Força %1$s</item>

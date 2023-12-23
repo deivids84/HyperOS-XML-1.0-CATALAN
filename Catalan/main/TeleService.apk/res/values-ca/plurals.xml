@@ -5,16 +5,16 @@
         <item quantity="other">Fa 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Fa 1 hora</item>
-        <item quantity="other">Fa 1 hora</item>
+        <item quantity="one">fa %d hores</item>
+        <item quantity="other">fa %d hores</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
         <item quantity="other">Fa mitja hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">En 1 hora</item>
-        <item quantity="other">En 1 hora</item>
+        <item quantity="one">En %d hora</item>
+        <item quantity="other">En %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">En mitja hora</item>
@@ -25,30 +25,16 @@
         <item quantity="other">Immediatament</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">d\'aquí a %d min</item>
-        <item quantity="one">en 1 min</item>
+        <item quantity="other">En %d minuts</item>
+        <item quantity="one">En %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ara mateix</item>
         <item quantity="other">Ara mateix</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Fa %d</item>
-        <item quantity="one">Fa 1 min</item>
-    </plurals>
-    <plurals name="alert_dialog_exit_ecm">
-        <item quantity="other">El telèfon entrarà en mode Trucada d\'emergència durant %s minut. En aquest mode no podrà usar cap aplicació que necessiti connexió de dades. Voleu sortir ara?</item>
-        <item quantity="one">El telèfon entrarà en mode Trucada d\'emergència durant %s minut. En aquest mode no podrà usar cap aplicació que necessiti connexió de dades. Voleu sortir ara?</item>
-    </plurals>
-    <plurals name="alert_dialog_exit_ecm_without_data_restriction_hint">
-        <item quantity="other">"El telèfon estarà en mode de trucada d’emergència durant %s minuts.
-Voleu sortir ara?"</item>
-        <item quantity="one">"El telèfon estarà en mode de trucada d’emergència durant %s minuts.
-Voleu sortir ara?"</item>
-    </plurals>
-    <plurals name="alert_dialog_not_avaialble_in_ecm">
-        <item quantity="other">"L'acció seleccionada no està disponible mentre estigueu en mode Trucada d'emergència. El telèfon romandrà en aquest mode durant %s minuts. Voleu sortir ara?"</item>
-        <item quantity="one">"L'acció seleccionada no està disponible mentre estigeu en mode Trucada d'emergència. El telèfon romandrà en aquest mode durant %s minut. Voleu sortir ara?"</item>
+        <item quantity="other">fa %d minuts</item>
+        <item quantity="one">fa %d min</item>
     </plurals>
     <plurals name="auto_answer_summary_delay">
         <item quantity="other">retard: %d segons</item>
@@ -102,10 +88,6 @@ Voleu sortir ara?"</item>
         <item quantity="other">%d elements seleccionats</item>
         <item quantity="one">%d element seleccionat</item>
     </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d notificacions noves</item>
-        <item quantity="one">%d notificació nova</item>
-    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Fa %d</item>
         <item quantity="one">Fa 1 minut</item>
@@ -113,9 +95,5 @@ Voleu sortir ara?"</item>
     <plurals name="pin_attempts">
         <item quantity="other">"Falten %d intents."</item>
         <item quantity="one">"Falta %d intent."</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d dispositius connectats</item>
-        <item quantity="one">%1$d dispositiu connectat</item>
     </plurals>
 </resources>

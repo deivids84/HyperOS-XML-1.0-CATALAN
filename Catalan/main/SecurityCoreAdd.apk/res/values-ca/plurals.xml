@@ -5,16 +5,16 @@
         <item quantity="other">Fa 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Fa 1 hora</item>
-        <item quantity="other">Fa 1 hora</item>
+        <item quantity="one">Fa %d hora</item>
+        <item quantity="other">Fa %d hores</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
         <item quantity="other">Fa mitja hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">En 1 hora</item>
-        <item quantity="other">En 1 hora</item>
+        <item quantity="one">En %d hora</item>
+        <item quantity="other">En %d hores</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">En mitja hora</item>
@@ -25,16 +25,24 @@
         <item quantity="other">Immediatament</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">d\'aquí a %d min</item>
-        <item quantity="one">en 1 min</item>
+        <item quantity="other">En %d mins</item>
+        <item quantity="one">En %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ara mateix</item>
         <item quantity="other">Ara mateix</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Fa %d</item>
-        <item quantity="one">Fa 1 min</item>
+        <item quantity="other">Fa %d minuts</item>
+        <item quantity="one">Fa %d minut</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">No ho desactivis mai per %d aplicacions</item>
+        <item quantity="one">No ho desactivis mai per %d aplicació</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Desactiva-ho sempre per %d aplicacions</item>
+        <item quantity="one">Desactiva-ho sempre per %d aplicació</item>
     </plurals>
     <plurals name="fileCount">
         <item quantity="other">%d elements</item>
@@ -69,23 +77,27 @@
         <item quantity="other">Ara mateix</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d elements seleccionats</item>
-        <item quantity="one">%d element seleccionat</item>
+        <item quantity="other">%d elements sel·leccionats</item>
+        <item quantity="one">%d element sel·leccionat</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notificacions noves</item>
+        <item quantity="one">%d notificació nova</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">Fa %d</item>
+        <item quantity="other">Fa %d minuts</item>
         <item quantity="one">Fa 1 minut</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
-        <item quantity="other">Cerca %d aplicacions</item>
-        <item quantity="one">Cerca %d aplicació</item>
+        <item quantity="other">Cercar %d aplicacions</item>
+        <item quantity="one">Cercar %d aplicació</item>
     </plurals>
     <plurals name="second_space_notification_format">
         <item quantity="other">%d notificacions en el Segon espai</item>
-        <item quantity="one">%d notificacio en el Segon espai</item>
+        <item quantity="one">%d notificació en el Segon espai</item>
     </plurals>
     <plurals name="xspace_guide_content">
         <item quantity="other">Podeu crear &lt;font color=#0D84FF&gt;%d&lt;/font&gt; &lt;font&gt;aplicacions duals&lt;/font&gt;</item>
-        <item quantity="one">Podeu crear una aplicació dual &lt;font color=#0D84FF&gt;%d&lt;/font&gt; &lt;font&gt;&lt;/font&gt;</item>
+        <item quantity="one">Podeu crear &lt;font color=#0D84FF&gt;%d&lt;/font&gt; &lt;font&gt; aplicació dual&lt;/font&gt;</item>
     </plurals>
 </resources>

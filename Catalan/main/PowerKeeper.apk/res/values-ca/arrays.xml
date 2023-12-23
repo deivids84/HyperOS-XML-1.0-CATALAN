@@ -2,7 +2,7 @@
 <resources>
     <string-array name="hmode_app_classify1">
         <item>Personalitza</item>
-        <item>Estalvi de bateria MIUI</item>
+        <item>Estalvi de bateria</item>
     </string-array>
     <string-array name="hmode_app_classify2">
         <item>Aplicacions actives</item>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alarm_in_furture">
-        <item>L\'alarma sonarà en menys d\'un minut</item>
-        <item>L\'alarma sonarà en %1$s</item>
-        <item>L\'alarma sonarà en %2$s</item>
-        <item>L\'alarma sonarà en %1$s %2$s</item>
-        <item>L\'alarma sonarà en %3$s</item>
-        <item>L\'alarma sonarà en %1$s %3$s</item>
-        <item>L\'alarma sonarà en %2$s %3$s</item>
-        <item>L\'alarma sonarà en %1$s %2$s %3$s</item>
+    <string-array name="alarm_in_furture_new_array">
+        <item>Alarma en menys de %d minut</item>
+        <item>Alarma en %1$s</item>
+        <item>Alarma en %2$s</item>
+        <item>Alarma en %1$s %2$s</item>
+        <item>Alarma en %3$s</item>
+        <item>Alarma en %1$s %3$s</item>
+        <item>Alarma en %2$s %3$s</item>
+        <item>Alarma en %1$s %2$s %3$s</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Una vegada</item>
@@ -24,15 +24,15 @@
         <item>Dill a Div</item>
         <item>Personalitzat</item>
     </string-array>
-    <string-array name="alarm_set">
-        <item>L\'alarma sonarà en menys d\'1 minut.</item>
-        <item>L\'alarma sonarà en %1$s.</item>
-        <item>L\'alarma sonarà en %2$s.</item>
-        <item>L\'alarma sonarà en %1$s i %2$s.</item>
-        <item>L\'alarma sonarà en %3$s.</item>
-        <item>L\'alarma sonarà en %1$s i %3$s.</item>
-        <item>L\'alarma sonarà en %2$s i %3$s.</item>
-        <item>L\'alarma sonarà en %1$s, %2$s, i %3$s.</item>
+    <string-array name="alarm_set_new_array">
+        <item>L\'alarma saltarà en menys de %d minut.</item>
+        <item>Saltarà l\'alarma %1$s.</item>
+        <item>Saltarà l\'alarma %2$s.</item>
+        <item>Saltarà l\'alarma %1$s i %2$s.</item>
+        <item>Saltarà l\'alarma %3$s.</item>
+        <item>Saltarà l\'alarma %1$s i %3$s.</item>
+        <item>Saltarà l\'alarma %2$s i %3$s.</item>
+        <item>Saltarà l\'alarma %1$s %2$s i %3$s.</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>A</item>
@@ -101,24 +101,23 @@
         <item>Molt pobre</item>
         <item>Greu</item>
     </string-array>
-    <string-array name="auto_silence_entries">
-        <item>Mai</item>
-        <item>1 minut</item>
-        <item>5 minuts</item>
-        <item>10 minuts</item>
-        <item>15 minuts</item>
-        <item>20 minuts</item>
-        <item>25 minuts</item>
-        <item>30 minuts</item>
-    </string-array>
     <string-array name="bedtime_guide_repeat_type">
         <item>De dilluns a divendres</item>
         <item>Cada dia</item>
         <item>Dies laborables</item>
     </string-array>
+    <string-array name="bedtime_guide_repeat_type_international">
+        <item>de dilluns a divendres</item>
+        <item>Cada dia</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entires_international">
+        <item>Cada dia</item>
+        <item>de dilluns a divendres</item>
+        <item>Personalitzat</item>
+    </string-array>
     <string-array name="bedtime_repeat_entries">
         <item>Cada dia</item>
-        <item>De dilluns a divendres</item>
+        <item>De dilluns a Divendres</item>
         <item>Dies laborables</item>
         <item>Personalitzar</item>
     </string-array>
@@ -309,7 +308,7 @@
         <item>Sofia</item>
         <item>Estocolm</item>
         <item>Tallinn</item>
-        <item>Vaticà</item>
+        <item>La ciutat del Vatica</item>
         <item>Viena</item>
         <item>Vílnius</item>
         <item>Varsòvia</item>
@@ -409,11 +408,6 @@
         <item>Tegucigalpa</item>
         <item>Paramaribo</item>
         <item>Quito</item>
-    </string-array>
-    <string-array name="clock_bg_setting_entries">
-        <item>Blanc</item>
-        <item>Negre</item>
-        <item>Automàtic</item>
     </string-array>
     <string-array name="countries_names_miui">
         <item>"Costa d'Ivori"</item>
@@ -703,30 +697,14 @@
         <item>Surinam</item>
         <item>Equador</item>
     </string-array>
-    <string-array name="days_of_week">
-        <item>Dg</item>
-        <item>Dl</item>
-        <item>Dt</item>
-        <item>Dc</item>
-        <item>Dj</item>
-        <item>Dv</item>
-        <item>Ds</item>
-    </string-array>
-    <string-array name="notification_adv_time_entries">
-        <item>A l\'hora establerta</item>
-        <item>15 minuts abans</item>
-        <item>30 minuts abans</item>
-        <item>1 hora abans</item>
-        <item>Cap</item>
-    </string-array>
-    <string-array name="snooze_duration_entries">
-        <item>1 minut</item>
-        <item>5 minuts</item>
-        <item>10 minuts</item>
-        <item>15 minuts</item>
-        <item>20 minuts</item>
-        <item>25 minuts</item>
-        <item>30 minuts</item>
+    <string-array name="time">
+        <item>%1$s</item>
+        <item>%2$s</item>
+        <item>%1$s%2$s</item>
+        <item>%3$s</item>
+        <item>%1$s%3$s</item>
+        <item>%2$s%3$s</item>
+        <item>%1$s%2$s%3$s</item>
     </string-array>
     <string-array name="timer_duration">
         <item>Total %1$s</item>
@@ -736,34 +714,6 @@
         <item>Total %1$s%3$s</item>
         <item>Total %2$s%3$s</item>
         <item>Total %1$s%2$s%3$s</item>
-    </string-array>
-    <string-array name="timezone_alphabet_table">
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
     </string-array>
     <string-array name="volume_button_setting_entries">
         <item>No fer res</item>

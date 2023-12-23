@@ -2,6 +2,13 @@
 <resources>
     <string name="add_frequent_phrases">Afegeix frases freqüents</string>
     <string name="call">Cridar</string>
+    <string name="call_notification_answer_action">Resposta</string>
+    <string name="call_notification_answer_video_action">Vídeo</string>
+    <string name="call_notification_decline_action">Declinar</string>
+    <string name="call_notification_hang_up_action">Penjar</string>
+    <string name="call_notification_incoming_text">Trucada entrant</string>
+    <string name="call_notification_ongoing_text">Convocatòria en curs</string>
+    <string name="call_notification_screening_text">Cribratge d\'una trucada entrant</string>
     <string name="edit_frequent_phrases">Edita frases freqüents</string>
     <string name="floating_toolbar_close_overflow_description">Tanca el desbordament</string>
     <string name="floating_toolbar_menu_item_text_tag">floating_toolbar_menu_item_text</string>

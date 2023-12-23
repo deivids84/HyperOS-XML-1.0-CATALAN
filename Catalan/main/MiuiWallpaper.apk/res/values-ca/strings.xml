@@ -27,28 +27,43 @@
     <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
     <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
     <string name="abc_toolbar_collapse_description">Replega</string>
-    <string name="actionbar_button_up_description">Enrere</string>
     <string name="afternoon">Tarda</string>
-    <string name="already_newest_version">La versió actual està actualitzada</string>
     <string name="am">a. m.</string>
     <string name="app_name">Fons de pantalla</string>
-    <string name="cancel_download">Descàrrega cancel·lada</string>
-    <string name="character_counter_content_description">Caràcters introduïts %1$d de %2$d</string>
-    <string name="clearable_edittext_clear_description">Netejar</string>
-    <string name="close">Tanca</string>
-    <string name="copy">Copia</string>
-    <string name="date_picker_lunar">Calendari tradicional xinès</string>
-    <string name="date_time_picker_dialog_title">Estableix la data i l’hora</string>
-    <string name="download_button">Botó de descàrrega</string>
-    <string name="download_failed">"No s'ha pogut descarregar"</string>
+    <string name="default_wallpaper_type">imatge</string>
     <string name="early_morning">Matí</string>
+    <string name="earth_coordinate_latitude_0">13.910°E</string>
+    <string name="earth_coordinate_latitude_1">110.152°E</string>
+    <string name="earth_coordinate_latitude_2">51.100°O</string>
+    <string name="earth_coordinate_latitude_3">20.624°E</string>
+    <string name="earth_coordinate_latitude_4">11.733°E</string>
+    <string name="earth_coordinate_longitude_0">44.767°N,;</string>
+    <string name="earth_coordinate_longitude_1">25.803°N,;</string>
+    <string name="earth_coordinate_longitude_2">69.217°N,;</string>
+    <string name="earth_coordinate_longitude_3">37.859°N,;</string>
+    <string name="earth_coordinate_longitude_4">46.601°N,;</string>
+    <string name="earth_position_content_0">"El Parc Natural del Cap Kamenjak a Croàcia alberga possiblement les vistes més impressionants al llarg de la costa mediterrània. Impressionants formacions geològiques aquí converteixen aquest lloc en el paradís dels bussejadors. Cada estiu, el sol enlluernador i les càlides aigües mediterrànies atrauen innombrables entusiastes de l'aire lliure."</string>
+    <string name="earth_position_content_1">"Els camps abancalats són el resultat de l'activitat humana, però també serveixen com un espai paisatgístic excepcional per a la natura.
+A la Xina, les terrasses d'arròs es troben principalment al sud del riu Iang-Tsé, on les pluges són comunes i les serralades són abundants. Les terrasses de Longji existeixen des de fa més de 700 anys, i hi ha un bon nombre de monuments històrics als pobles propers."</string>
+    <string name="earth_position_content_2">Ilulissat es troba a l\'oest de Groenlàndia, a 200 quilòmetres al nord del cercle polar àrtic. El magnífic fiord de gel d\'Ilulissat, de 56 quilòmetres, està situat just al costat de la glacera Jakobshavn Isbræ. En ser la glacera més gran de l\'hemisferi nord, produeix 2.000 milions de tones d\'icebergs cada any. Després d\'un curt desviament en direcció nord, giren cap al sud i desemboquen a l\'oceà Atlàntic.</string>
+    <string name="earth_position_content_3">"Navagio és una de les platges més boniques de la costa de Zakynthos, a les Illes Jòniques de Grècia. Es diu que és la llar d'un famós naufragi, per això la platja també s'anomena \"Cala dels Contrabandistes\"."</string>
+    <string name="earth_position_content_4">Les Dolomites són una serralada muntanyosa situada al nord-est d\'Itàlia. La muntanya Seceda és realment un dels llocs més pintorescs que hi ha.</string>
+    <string name="earth_position_title_0">"Croàcia
+Cap Kamenjak"</string>
+    <string name="earth_position_title_1">"Guangxi, Xina
+Camps aterrassats de Longji"</string>
+    <string name="earth_position_title_2">"Grenlàndia
+Ilulissat"</string>
+    <string name="earth_position_title_3">"Grècia
+Platja de Navagio"</string>
+    <string name="earth_position_title_4">"Itàlia
+Dolomites"</string>
     <string name="earth_summary">La Terra és el bressol de la civilització humana</string>
     <string name="earth_super_wallpaper_label">terra</string>
     <string name="earth_title">Casa</string>
     <string name="eras_ad">EC</string>
     <string name="eras_bc">AEC</string>
     <string name="evening">Tarda</string>
-    <string name="expand_button_title">Opcions avançades</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">MM/dd</string>
@@ -61,11 +76,13 @@
     <string name="friday">divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
-    <string name="game_view_content_description">Vista del joc</string>
     <string name="geometry_summary">Formes, llum i colors</string>
     <string name="geometry_super_wallpaper_label">Geometria</string>
     <string name="geometry_title">Geometria</string>
-    <string name="install_failed">"No s'ha pogut instal·lar"</string>
+    <string name="mars_coordinate_latitude_3">137.379°E</string>
+    <string name="mars_coordinate_latitude_4">303.208°E</string>
+    <string name="mars_coordinate_longitude_3">4.676°S</string>
+    <string name="mars_coordinate_longitude_4">20.953°N,;</string>
     <string name="mars_position_content_0">"Aquesta regió conté penya-segats, altiplans i àmplies valls plans, que es creu que van ser causades per glaceres cobertes de runes. Aquí també s'han detectat minerals d'argila, que són de gran interès en la recerca de proves de vida a l'antic Mart.
 
 NASA/JPL/Universitat d'Arizona"</string>
@@ -75,55 +92,27 @@ NASA/JPL/Universitat d’Arizona"</string>
     <string name="mars_position_content_2">"El Mawrth Vallis és un antic canal de sortida d'aigua amb roques argiloses de color clar. Els minerals d'argila preserven fàcilment la vida microscòpica a la Terra, així que potser es poden trobar rastres de vida antiga a Mawrth.
 
 NASA/JPL/Universitat d'Arizona"</string>
+    <string name="mars_position_content_3">"Aquestes imatges van ser preses mentre el rover Mars Curiosity explorava els turons Pahrump al cràter Gale. Aquesta regió conté roques sedimentàries que els científics creuen que es van formar en presència d'aigua. Les zones més fosques són la sorra.
+
+NASA/JPL/Universitat d'Arizona"</string>
+    <string name="mars_position_content_4">"Bahram Vallis és una vall fluvial d'un sol tronc, amb parets vieires en alguns llocs. La presència de característiques erosionals racionalitzades al seu sòl mostra que el fluid va participar en la seva formació.
+
+NASA/JPL/Universitat d'Arizona"</string>
     <string name="mars_position_title_0">"Nilosyrtis
 Regió mensae"</string>
     <string name="mars_position_title_1">Cráter de Gale</string>
     <string name="mars_position_title_2">"Cràter a
 Mawrth Vallis"</string>
+    <string name="mars_position_title_3">Turons de Pahrump</string>
+    <string name="mars_position_title_4">Bahram Vallis</string>
     <string name="mars_summary">Els vasts deserts de Mart han estat sempre captivadors per a l\'ésser humà</string>
     <string name="mars_super_wallpaper_label">mart</string>
     <string name="mars_title">El planeta vermell</string>
-    <string name="mi_wallpaper_loading">S\'està carregant Mi-Wallpaper...</string>
+    <string name="mars_view_height_3">268.0 km</string>
+    <string name="mars_view_height_4">283,8 km</string>
+    <string name="mi_wallpaper_loading">Carregant Mi-Wallpaper…</string>
     <string name="mi_wallpaper_title">Mi Wallpaper</string>
     <string name="midnight">Nit</string>
-    <string name="miui_clock_city_name_local">Local</string>
-    <string name="miui_clock_city_name_second">Segon rellotge</string>
-    <string name="miui_lock_screen_date">EEEE, d MMMM</string>
-    <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
-    <string name="miui_lock_screen_date_two_lines">"EEEE
-d MMMM"</string>
-    <string name="miui_lock_screen_date_two_lines_12">"EEEE
-d MMMM"</string>
-    <string name="miui_lock_screen_large_date">"EEE
-dd/M"</string>
-    <string name="miui_lock_screen_large_date_12">"EEE
-dd/M"</string>
-    <string name="miui_vertical_time_format_12">"hh
-mm"</string>
-    <string name="miui_vertical_time_format_24">"HH
-mm"</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Anul·la la selecció</string>
-    <string name="miuix_appcompat_action_mode_select_all">Seleccioneu-ho tot</string>
-    <string name="miuix_appcompat_action_mode_title_empty">Selecciona elements</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Més</string>
-    <string name="miuix_appcompat_cancel_description">Cancel·leu</string>
-    <string name="miuix_appcompat_confirm_description">Confirma</string>
-    <string name="miuix_appcompat_delete_description">Suprimeix</string>
-    <string name="miuix_appcompat_deselect_all">Desselecciona</string>
-    <string name="miuix_appcompat_deselect_all_description">Desseleccioneu-ho tot</string>
-    <string name="miuix_appcompat_search_action_mode_cancel">Cancel·leu</string>
-    <string name="miuix_appcompat_search_input_description">Cerca</string>
-    <string name="miuix_appcompat_select_all">Selecciona-ho tot</string>
-    <string name="miuix_appcompat_select_all_description">Seleccioneu-ho tot</string>
-    <string name="miuix_appcompat_select_item">Seleccioneu els elements</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira cap avall per a refrescar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">S\'ha refrescat correctament</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">Refrescant…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Deixa anar per a refrescar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Això és tot per ara"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">"Això és tot per ara"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un segon…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No s'han pogut carregar els elements"</string>
     <string name="monday">Dilluns</string>
     <string name="monday_short">Dl.</string>
     <string name="monday_shortest">dl.</string>
@@ -163,17 +152,10 @@ mm"</string>
     <string name="month_september">setembre</string>
     <string name="month_september_short">set</string>
     <string name="month_september_shortest">set</string>
-    <string name="more">Més</string>
     <string name="morning">Matí</string>
-    <string name="mtrl_chip_close_icon_content_description">Suprimeix %1$s</string>
     <string name="night">Vespre</string>
-    <string name="no_cta_agreed">"GetApps no té permisos de CTA"</string>
-    <string name="no_install_permission">"No tens permisos per a instal·lar aquest element"</string>
     <string name="noon">Migdia</string>
-    <string name="not_set">Sense definir</string>
-    <string name="password_toggle_content_description">Mostra la contrasenya</string>
     <string name="pm">p. m.</string>
-    <string name="preference_copied">\"%1$s\" s\'ha copiat al porta-retalls</string>
     <string name="saturday">Dissabte</string>
     <string name="saturday_short">Ds.</string>
     <string name="saturday_shortest">ds.</string>
@@ -181,7 +163,6 @@ mm"</string>
     <string name="saturn_super_wallpaper_label">saturn</string>
     <string name="saturn_title">Anells llunyans</string>
     <string name="search_menu_title">Cerca</string>
-    <string name="send">Envia</string>
     <string name="snowmountain_summary">Pistes de muntanya il·luminades pel sol de la muntanya Siguniang</string>
     <string name="snowmountain_super_wallpaper_label">Cims nevats</string>
     <string name="snowmountain_title">Cims nevats</string>
@@ -210,85 +191,17 @@ mm"</string>
     <string name="sunday_short">Dg.</string>
     <string name="sunday_shortest">dg.</string>
     <string name="super_wallpaper_list_label">Superfons de pantalla</string>
-    <string name="super_wallpaper_setting_apply_success_toast">Aplicat correctament</string>
-    <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Aplica</string>
-    <string name="super_wallpaper_setting_choose_position_btn_text">Selecciona la ubicació</string>
-    <string name="super_wallpaper_setting_coordinate_title">Coordinades</string>
-    <string name="super_wallpaper_setting_view_height_title">Altitud</string>
-    <string name="task_already_exist">Aquesta tasca ja existeix</string>
-    <string name="the_anniversary_of_lifting_martial_law">Aniversari de l\'aixecament de la llei marcial</string>
-    <string name="the_anti_aggression_day">Dia contra les Agressions</string>
-    <string name="the_arbor_day">Dia de l\'Arbre</string>
-    <string name="the_armed_forces_day">Dia de les Forces Armades</string>
-    <string name="the_armys_day">Dia PLA</string>
-    <string name="the_childrens_day">"Dia dels Nens"</string>
-    <string name="the_chinese_youth_day">Dia de la Joventut</string>
-    <string name="the_christmas_day">Nadal</string>
-    <string name="the_double_ninth_festival">Festival del doble novè</string>
-    <string name="the_dragon_boat_festival">Festival de la barca drac</string>
-    <string name="the_easter_day">Pasqua</string>
-    <string name="the_eve_of_the_spring_festival">Vigília de l\'any nou xinès</string>
-    <string name="the_fifth_day">Cinquè dia de l\'any nou xinès</string>
-    <string name="the_fools_day">"Dia dels Innocents"</string>
-    <string name="the_forth_day">Quart dia de l\'any nou xinès</string>
-    <string name="the_hksar_establishment_day">Dia de l\'Establiment de la RAE de Hong Kong</string>
-    <string name="the_international_womens_day">"Dia de la Dona"</string>
-    <string name="the_laba_festival">Festival de Laba</string>
-    <string name="the_labour_day">Dia del Treball</string>
-    <string name="the_lantern_festival">Festival de les llanternes</string>
-    <string name="the_mid_autumn_festival">Festival de mitjans de tardor</string>
-    <string name="the_national_day">Dia Nacional</string>
-    <string name="the_national_father_day">"Aniversari de Sun Yat-sen"</string>
-    <string name="the_new_years_day">Any nou</string>
-    <string name="the_night_of_sevens">Festival de Qixi</string>
-    <string name="the_partys_day">Dia CPC</string>
-    <string name="the_peace_day">Dia del Record</string>
-    <string name="the_retrocession_day">Dia del Retrocés</string>
-    <string name="the_second_day">Segon dia de l\'any nou xinès</string>
-    <string name="the_seventh_day">Setè dia de l\'any nou xinès</string>
-    <string name="the_sixth_day">Sisè dia de l\'any nou xinès</string>
-    <string name="the_spirit_festival">Festival dels fantasmes</string>
-    <string name="the_spring_festival">Any nou xinès</string>
-    <string name="the_teachers_day">"Dia dels Mestres"</string>
-    <string name="the_third_day">Tercer dia de l\'any nou xinès</string>
-    <string name="the_tw_childrens_day">"Dia dels Nens"</string>
-    <string name="the_tw_youth_day">Dia de la Joventut</string>
-    <string name="the_united_nations_day">Dia de les Nacions Unides</string>
-    <string name="the_valentines_day">"Sant Valentí"</string>
-    <string name="the_water_lantern_festival">Festival de les llanternes d\'aigua</string>
     <string name="thursday">Dijous</string>
     <string name="thursday_short">Dj.</string>
     <string name="thursday_shortest">dj.</string>
-    <string name="time_picker_dialog_title">Definir hora</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
-    <string name="title_system_wallpaper_resource">Fons de pantalla del sistema</string>
-    <string name="today">Avui</string>
     <string name="tomorrow">Demà</string>
     <string name="tuesday">Dimarts</string>
     <string name="tuesday_short">Dt.</string>
     <string name="tuesday_shortest">dt.</string>
-    <string name="update">Actualitza</string>
-    <string name="v7_preference_off">DESACTIVAT</string>
-    <string name="v7_preference_on">ACTIVAT</string>
-    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">Pantalla sempre encesa</string>
-    <string name="wallpaper_setting_find_more_text">Més fons de pantalla en línia</string>
-    <string name="wallpaper_setting_home_wallpaper_banner_button_text">Pantalla principal</string>
-    <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Pantalla de bloqueig</string>
-    <string name="wallpaper_setting_online_wallpaper_actionbar_title">Fons de pantalla en línia</string>
-    <string name="wallpaper_setting_online_wallpaper_none_title">Descobreix fons de pantalla</string>
-    <string name="wallpaper_setting_online_wallpaper_title">Fons de pantalla en línia</string>
-    <string name="wallpaper_setting_super_wallpaper_banner_title">Superfons de pantalla</string>
-    <string name="wallpaper_setting_super_wallpaper_more_button_text">Més</string>
-    <string name="wallpaper_setting_title">Fons de pantalla</string>
-    <string name="weather_summary">Informació del temps local</string>
-    <string name="weather_super_wallpaper_label">Temps</string>
-    <string name="weather_title">Temps</string>
     <string name="wednesday">Dimecres</string>
     <string name="wednesday_short">Dc.</string>
     <string name="wednesday_shortest">dc.</string>
-    <string name="xiaomi_market_sdk_update_dialog_cancel">Ara no</string>
-    <string name="xiaomi_market_sdk_update_dialog_ok">Actualitza</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">Hi ha disponible una actualització</string>
     <string name="yesterday">Ahir</string>
 </resources>

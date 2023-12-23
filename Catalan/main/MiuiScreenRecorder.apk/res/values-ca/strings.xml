@@ -32,9 +32,8 @@
     <string name="am">a. m.</string>
     <string name="app_name">Gravadora de pantalla</string>
     <string name="app_notification_channel_record_complete">Notificacions sobre enregistraments finalitzats</string>
-    <string name="app_notification_info">La gravadora de pantalla està treballant en segon pla</string>
-    <string name="app_notification_record_saved">"S'ha desat l'enregistrament correctament
-Toqueu per veure'l"</string>
+    <string name="app_notification_info">Pantalla de gravació actual…</string>
+    <string name="app_notification_record_saved">Gravació de pantalla desada. Toqueu per veure.</string>
     <string name="app_notification_title">Gravadora de pantalla</string>
     <string name="auto_stop_title">Vídeo desat correctament</string>
     <string name="battery_not_allowed_warning">"No es pot enregistrar quan la bateria és inferior a %1$s. Assegureu-vos que la bateria estigui com a mínim %2$s carregada."</string>
@@ -127,15 +126,16 @@ Toqueu per veure'l"</string>
     <string name="midnight">Nit</string>
     <string name="miuix_access_state_desc">Seleccionat</string>
     <string name="miuix_alphabet_indexer_name">Barra d’índex</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Anul·la la selecció</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarqueu-ho tot</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccioneu-ho tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecciona elements</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Més</string>
     <string name="miuix_appcompat_cancel_description">Cancel·leu</string>
     <string name="miuix_appcompat_confirm_description">Confirma</string>
     <string name="miuix_appcompat_delete_description">Suprimeix</string>
-    <string name="miuix_appcompat_deselect_all">Anul·la la selecció</string>
+    <string name="miuix_appcompat_deselect_all">Desmarqueu-ho tot</string>
     <string name="miuix_appcompat_deselect_all_description">Desseleccioneu-ho tot</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel·leu</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
     <string name="miuix_appcompat_select_all">Seleccioneu-ho tot</string>
@@ -207,7 +207,9 @@ Toqueu per veure'l"</string>
     <string name="pm">p. m.</string>
     <string name="preference_copied">\"%1$s\" s\'ha copiat al porta-retalls</string>
     <string name="privacy_settings">Privadesa</string>
+    <string name="protect_oneself_when_recording">"Gravació de trucada. Protegiu la vostra privadesa i la d'altres persones mentre utilitzeu aquesta funció."</string>
     <string name="quit_recording">Surt de la gravadora de pantalla</string>
+    <string name="record_time_too_short">El vídeo gravat és massa curt</string>
     <string name="recording_failure">"No s'ha pogut gravar, torna a començar"</string>
     <string name="recording_max_size">"La gravació s'ha aturat i s'ha desat perquè el fitxer de vídeo ha arribat al seu límit de mida. Comença a gravar des d'on ho has deixar si encara no has acabat."</string>
     <string name="recording_without_mic">"El micròfon està ocupat i no pot gravar so ara."</string>

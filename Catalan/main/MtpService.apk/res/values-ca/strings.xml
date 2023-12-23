@@ -29,6 +29,13 @@
     <string name="abc_toolbar_collapse_description">Redueix</string>
     <string name="accessing_notification_title">Accés a fitxers des de %1$s</string>
     <string name="app_label">Amfitrió MTP</string>
+    <string name="call_notification_answer_action">Resposta</string>
+    <string name="call_notification_answer_video_action">Vídeo</string>
+    <string name="call_notification_decline_action">Declinar</string>
+    <string name="call_notification_hang_up_action">Penjar</string>
+    <string name="call_notification_incoming_text">Trucada entrant</string>
+    <string name="call_notification_ongoing_text">Convocatòria en curs</string>
+    <string name="call_notification_screening_text">Cribratge d\'una trucada entrant</string>
     <string name="downloads_app_label">Baixades</string>
     <string name="error_busy_device">"L'altre dispositiu està ocupat. No podeu transferir fitxers fins que no estigui disponible."</string>
     <string name="error_locked_device">No s\'ha trobat cap fitxer. L\'altre dispositiu pot estar bloquejat. Si és així, desbloquegeu-lo i torneu-ho a provar.</string>

@@ -36,6 +36,38 @@
         <item quantity="other">Fa %d min</item>
         <item quantity="one">Fa 1 min</item>
     </plurals>
+    <plurals name="car_map_hour">
+        <item quantity="other">%d Hores</item>
+        <item quantity="one">%d H</item>
+    </plurals>
+    <plurals name="car_map_kilometre">
+        <item quantity="other">%d km</item>
+        <item quantity="one">%d km</item>
+    </plurals>
+    <plurals name="car_map_kilometre_decimal">
+        <item quantity="other">%.1f km</item>
+        <item quantity="one">%.1f km</item>
+    </plurals>
+    <plurals name="car_map_meter">
+        <item quantity="other">%d m</item>
+        <item quantity="one">%d m</item>
+    </plurals>
+    <plurals name="car_map_minute">
+        <item quantity="other">%d Minuts</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="circulate_audio_group_subtitle_format">
+        <item quantity="other">%1$d Dispositius</item>
+        <item quantity="one">%1$d dispositiu</item>
+    </plurals>
+    <plurals name="circulate_audio_group_title_format">
+        <item quantity="other">%1$d Dispositius</item>
+        <item quantity="one">%1$d dispositiu</item>
+    </plurals>
+    <plurals name="controller_auth_count_down">
+        <item quantity="other">Introdueix el codi de %1$s (%2$d secs)</item>
+        <item quantity="one">Introdueix el codi de %1$s (%2$d sec)</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
         <item quantity="other">Fa mitja hora</item>
@@ -65,8 +97,8 @@
         <item quantity="one">%d element sel·leccionat</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d noves notificacions</item>
-        <item quantity="one">%d nova notificació</item>
+        <item quantity="other">%d notificacions noves</item>
+        <item quantity="one">%d notificació nova</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Fa %d minuts</item>

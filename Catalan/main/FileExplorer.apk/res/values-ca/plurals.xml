@@ -5,16 +5,16 @@
         <item quantity="other">Fa 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Fa 1 hora</item>
-        <item quantity="other">Fa 1 hora</item>
+        <item quantity="one">fa %d hores</item>
+        <item quantity="other">fa %d hores</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
         <item quantity="other">Fa mitja hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">D\'aquí a 1 hora</item>
-        <item quantity="other">D\'aquí a 1 hora</item>
+        <item quantity="one">En %d hora</item>
+        <item quantity="other">En %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">D\'aquí a mitja hora</item>
@@ -25,16 +25,16 @@
         <item quantity="other">Immediatament</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">d\'aquí a %d min</item>
-        <item quantity="one">d\'aquí a 1 min</item>
+        <item quantity="other">En %d minuts</item>
+        <item quantity="one">En %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ara mateix</item>
         <item quantity="other">Ara mateix</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">fa %d min</item>
-        <item quantity="one">fa 1 minut</item>
+        <item quantity="other">fa %d minuts</item>
+        <item quantity="one">fa %d min</item>
     </plurals>
     <plurals name="backup_message_wechat_video">
         <item quantity="other">"%1$d fitxers temporals de WeChat Video s'eliminaran, voleu fer-ne còpies?"</item>
@@ -55,6 +55,10 @@
     <plurals name="days_ago">
         <item quantity="other">%1$d fa uns dies</item>
         <item quantity="one">%1$d fa un dia</item>
+    </plurals>
+    <plurals name="delete_cloud_files">
+        <item quantity="other">Voleu suprimir %1$d fitxers de tots els teus dispositius i del núvol? Els fitxers de Mi Drive es poden recuperar des dels elements que heu suprimit recentment.</item>
+        <item quantity="one">Voleu suprimir %1$d fitxer de tots els teus dispositius i del núvol? Els fitxers de Mi Drive es poden recuperar des dels elements que heu suprimit recentment.</item>
     </plurals>
     <plurals name="delete_files">
         <item quantity="other">Voleu suprimir %1$d fitxers?</item>
@@ -140,6 +144,18 @@
         <item quantity="other">%d notificacions noves</item>
         <item quantity="one">%d notificació nova</item>
     </plurals>
+    <plurals name="notification_message_sync_result_fail">
+        <item quantity="other">"No s'han pogut sincronitzar %1$s fitxers"</item>
+        <item quantity="one">"No s'ha pogut sincronitzar %1$s fitxer"</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_success">
+        <item quantity="other">"Sincronitzat %1$s fitxers | "</item>
+        <item quantity="one">"Sincronitzat %1$s fitxer | "</item>
+    </plurals>
+    <plurals name="notification_title_syncing_with_count_no_network">
+        <item quantity="other">S\'està esperant la connexió a la xarxa. Queden %1$s fitxers.</item>
+        <item quantity="one">S\'està esperant la connexió a la xarxa. Queda %1$s fitxer.</item>
+    </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">S\'han seleccionat %1$d elements</item>
         <item quantity="one">S\'ha seleccionat %1$d element</item>
@@ -153,16 +169,16 @@
         <item quantity="one">%1$s comentari</item>
     </plurals>
     <plurals name="original_user_days">
-        <item quantity="other">• &lt;font color=#fc7050&gt;%1$d&lt;/font&gt; dies</item>
-        <item quantity="one">• &lt;font color=#fc7050&gt;%1$d&lt;/font&gt; dia</item>
+        <item quantity="other">" • &lt;font color=#fc7050&gt;%1$d&lt;/font&gt; dies"</item>
+        <item quantity="one">" • &lt;font color=#fc7050&gt;%1$d&lt;/font&gt; dia"</item>
     </plurals>
     <plurals name="original_user_fans">
-        <item quantity="other">• Teniu &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; seguidors!</item>
-        <item quantity="one">• Teniu &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; seguidor!</item>
+        <item quantity="other">" • Tens &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; seguidors!"</item>
+        <item quantity="one">" • Tens &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; seguidor!"</item>
     </plurals>
     <plurals name="original_user_play_1">
-        <item quantity="other">• Heu pujat &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; vídeos,</item>
-        <item quantity="one">• Heu pujat &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; vídeo,</item>
+        <item quantity="other">" • Has penjat &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; vídeos. "</item>
+        <item quantity="one">" • Has penjat &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; vídeo. "</item>
     </plurals>
     <plurals name="original_user_play_2">
         <item quantity="other">Heu fet feliç a &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; persones!</item>

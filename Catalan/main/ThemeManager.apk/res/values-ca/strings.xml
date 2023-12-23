@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="UVI_level_0">Dèbil</string>
+    <string name="UVI_level_1">Moderar</string>
+    <string name="UVI_level_2">Fort</string>
+    <string name="UVI_level_3">Molt fort</string>
+    <string name="UVI_level_4">Greu</string>
     <string name="abc_action_bar_home_description">Navega a l\'inici</string>
     <string name="abc_action_bar_up_description">Navega cap amunt</string>
     <string name="abc_action_menu_overflow_description">Més opcions</string>
@@ -59,9 +64,14 @@
     <string name="ad_download_resume">Reprèn</string>
     <string name="ad_downloading_tip">Aquest element s\'està baixant. Podeu veure el progrés a l\'àrea de notificacions.</string>
     <string name="ad_experience_now">Obert</string>
+    <string name="ad_in_downloading">Descarregar</string>
+    <string name="ad_in_installing">Instal·lar</string>
+    <string name="ad_installing">Instal·lar</string>
     <string name="add">Afegeix</string>
+    <string name="add_home_icon_success">Afegit correctament</string>
     <string name="add_resource_detail_fail">"El recurs no es pot afegir"</string>
     <string name="afternoon">Tarda</string>
+    <string name="air_quality_index_abbreviation">AQI</string>
     <string name="all_resources">Tot</string>
     <string name="allow">Concedit</string>
     <string name="already_latest_version">Actualitzat</string>
@@ -99,12 +109,19 @@
     <string name="apply_not_support_aod">"La pantalla sempre en marxa no és compatible amb aquest dispositiu"</string>
     <string name="apply_not_support_in_second_space">"No es pot aplicar aquest element a Segon espai"</string>
     <string name="apply_not_support_maml_aod">"No es pot combinar la visualització permanent amb temes en aquest dispositiu"</string>
+    <string name="apply_not_support_video_wallpaper_warning">"Els vídeos 4K, 8K i Dolby no es poden configurar com a fons de pantalla de vídeo."</string>
+    <string name="apply_sensor_video_wallpaper_dialog_message">Aquest fons de pantalla s\'aplicarà a les pantalles de bloqueig interior i exterior i a les pantalles d\'inici.</string>
     <string name="apply_succeed">S\'ha aplicat correctament</string>
     <string name="apply_success_not_enable_aod">En primer lloc, activeu la Pantalla ambiental a la Configuració</string>
     <string name="apply_success_not_support_aod">"No es pot combinar la visualització permanent amb temes en aquest dispositiu. La resta de components d’aquest tema s’han aplicat amb èxit."</string>
     <string name="apply_theme_with_ringtones">Utilitza els tons del tema</string>
+    <string name="apply_wallpaper_after_three_theme">"Actualment utilitzeu un tema de tercers. Si canvies el fons de pantalla bloquejada, això pot provocar que l'estil del rellotge de la pantalla bloquejada es restauri per defecte. Sol·licita-ho ara?"</string>
+    <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"Actualment utilitzeu un fons de pantalla Super. Si selecciones un fons de pantalla nou, s'aplicarà tant a les pantalles d'inici com de bloqueig, i la pantalla sempre activada es restaurarà a la configuració anterior. Sol·licita-ho ara?"</string>
+    <string name="apply_wallpaper_warning_use_super_wallpaper">"Actualment utilitzeu un fons de pantalla Super. Si selecciones un fons de pantalla nou, s'aplicarà tant a les pantalles Casa com a les pantalles bloquejada. Sol·licita-ho ara?"</string>
     <string name="apply_warning_get_device_dialog_message">Per poder utilitzar el contingut baixat, primer permeteu que aquesta funció accedeixi a l\'identificador del dispositiu. Podeu concedir aquest permís a Configuració &gt; Privadesa.</string>
     <string name="apply_warning_tip_get_device_status">Primer permeteu que aquesta aplicació accedeixi a l\'identificador del dispositiu a Perfil &gt; Configuració.</string>
+    <string name="aqi_format">AQI %s</string>
+    <string name="aqi_format_desc">Índex de qualitat de l\'aire: %s</string>
     <string name="audio_duration_minutes_format">%1$d minuts</string>
     <string name="audio_duration_seconds_format">%1$d segons</string>
     <string name="audition_ringtone">Reprodueix</string>
@@ -158,14 +175,13 @@
     <string name="common_downloading">S\'està baixant…</string>
     <string name="common_format_date_no_year">dd/MM</string>
     <string name="common_skip">Omet</string>
-    <string name="community_community_message_trigger_summary">Rep notificacions sobre les respostes, els gustos i les actualitzacions de l\'estat de la comunitat de Mi mitjançant el vostre identificador del compte Mi</string>
+    <string name="community_community_message_trigger_summary">Rebeu notificacions sobre respostes, m\'agrada i actualitzacions d\'estat de la comunitat Mi mitjançant el vostre identificador de compte Xiaomi</string>
     <string name="community_community_message_trigger_title">Notificar sobre l’activitat</string>
     <string name="community_cta_dialog_cancel">No gràcies</string>
-    <string name="community_cta_dialog_des">Els temes de tercers ara admeten el giny de la meva comunitat. Permet que els temes accedeixin al vostre estat de compte de Mi i als vostres estatus de la comunitat de Mi associats al compte per poder-los veure aquí.</string>
+    <string name="community_cta_dialog_des">Els temes de tercers ara admeten el widget de la Comunitat Xiaomi. Permeteu que els temes accedeixin al vostre identificador de compte Xiaomi i als estats de la comunitat Xiaomi associats al compte per poder veure\'ls aquí.</string>
     <string name="community_cta_dialog_ok">Permetre</string>
     <string name="community_cta_dialog_title">Permisos necessaris</string>
-    <string name="community_entrance_summary">Cerca contingut relacionat amb el tema a Mi Community. Aquesta funció és compatible amb els temes seleccionats.</string>
-    <string name="community_entrance_title">Giny rellotge Mi Community</string>
+    <string name="community_entrance_title">Giny de rellotge de la comunitat Xiaomi</string>
     <string name="community_message_trigger_disabled">Desactivat</string>
     <string name="community_message_trigger_triggered">Encès</string>
     <string name="component_backup_preference_title">Fes una còpia de seguretat del tema</string>
@@ -175,6 +191,7 @@
     <string name="component_title_settings_video_wallpaper">Fons de pantalla amb efectes especials</string>
     <string name="component_title_video_wallpaper">Pel·lícules de fons de pantalla</string>
     <string name="component_title_wallpaper">Fons de pantalla</string>
+    <string name="component_title_widget_suit">Widgets</string>
     <string name="concentration_old_period">Més</string>
     <string name="configure_success_not_enable_aod">Aplicat correctament. Activeu la pantalla sempre activa perquè el tema tingui efecte.</string>
     <string name="copy">Còpia</string>
@@ -284,6 +301,7 @@
     <string name="download_failed">"No s'ha pogut baixar"</string>
     <string name="download_preview_failed">"No es pot carregar la vista prèvia"</string>
     <string name="download_success">Baixada finalitzada</string>
+    <string name="dynamic_large_icon_not_support_current_type">"%s no és compatible amb aquesta icona dinàmica"</string>
     <string name="dynamic_video_wallpaper">Fons de pantalla 24H</string>
     <string name="early_morning">Matí</string>
     <string name="enable_all_free_mode">Bescanvia</string>
@@ -296,7 +314,7 @@
     <string name="evening">Tarda</string>
     <string name="exchange_alert">Podeu obtenir codis durant els nostres esdeveniments i bescanviar-los aquí</string>
     <string name="exchange_code_dialog_title">Atenció</string>
-    <string name="exchange_code_not_match_account_dialog_content">Aquest codi ja ha estat bescanviat per un altre compte Mi. Inicieu la sessió amb aquest compte Mi i torneu-ho a provar.</string>
+    <string name="exchange_code_not_match_account_dialog_content">Aquest codi ja ha estat bescanviat per un altre compte Xiaomi. Inicieu la sessió amb aquest compte de Xiaomi i torneu-ho a provar.</string>
     <string name="exit_extreme_mode_dialog_agree">D\'acord</string>
     <string name="exit_extreme_mode_dialog_cancel">Cancel·la</string>
     <string name="exit_extreme_mode_dialog_title">Desactiva el mode Extrem</string>
@@ -357,6 +375,7 @@
     <string name="favorite_list">Favorits</string>
     <string name="favorite_list_format">Favorit %1$s</string>
     <string name="find_more_font">Troba\'n més</string>
+    <string name="find_more_free_theme">Veure més</string>
     <string name="find_more_theme">Troba\'n més</string>
     <string name="find_more_wallpapers">Troba\'n més</string>
     <string name="first_page_recommend">Recomanat</string>
@@ -385,6 +404,7 @@
     <string name="fold_restore_default_theme_dialog_content">"Ara Temes no es pot utilitzar en aquest dispositiu. Si heu canviat el tema abans, ara podeu restaurar el tema per defecte. No podreu tornar a canviar el tema després d'això."</string>
     <string name="fold_restore_default_theme_dialog_disagree">No gràcies</string>
     <string name="fold_restore_default_theme_dialog_title">Restaura el tema per defecte</string>
+    <string name="fold_sensor_video_wallpaper_group">Fons de pantalla dinàmics per a dispositius plegables</string>
     <string name="font_compat_dialog_buy_confirm">Compra</string>
     <string name="font_compat_dialog_buy_content">És possible que algunes aplicacions no admetin tipus de lletra de tercers. Aquest problema de compatibilitat se solucionarà mitjançant una propera actualització del sistema. Voleu comprar aquest tipus de lletra de totes maneres?</string>
     <string name="font_compat_dialog_cancel">Cancel·la</string>
@@ -401,6 +421,17 @@
     <string name="font_trial_end_purchase">Comprar tipus de lletra</string>
     <string name="forbid_transparent_wallpaper_by_second_space">Apliqueu primer un fons de pantalla transparent al primer espai.</string>
     <string name="forbid_video_wallpaper_by_second_space">Aplicar primer fons de pantalla dinàmic a Primer espai.</string>
+    <string name="format_day_desc">Dia del mes: %s</string>
+    <string name="format_day_week_desc">Dia del mes: %1$s, %2$s</string>
+    <string name="format_full_day_of_week">EEEE</string>
+    <string name="format_full_month_of_year">MMMM</string>
+    <string name="format_lunar_calendar_month_day_desc">Data segons el calendari tradicional xinès: %s</string>
+    <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, data segons el calendari tradicional xinès: %3$svacances: %4$s</string>
+    <string name="format_month_day_style1">MMM/d</string>
+    <string name="format_month_day_style2">M/d</string>
+    <string name="format_month_day_week">MMM dd, EEE</string>
+    <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s %2$s, %3$s, data segons el calendari tradicional xinès: %4$s</string>
+    <string name="format_week_day_style1_desc">%1$s, dia del mes: %2$s</string>
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
@@ -412,9 +443,19 @@
     <string name="has_mamual_hide_aod">Aquest element està ocult ara</string>
     <string name="has_mamual_hide_font">Ocult</string>
     <string name="has_mamual_hide_icons">Icones ocultes</string>
+    <string name="has_mamual_hide_large_icons">Super icona amagada correctament</string>
     <string name="has_mamual_hide_theme">Ocult</string>
     <string name="has_mamual_hide_wallpaper">Ocult</string>
     <string name="head_portraits">Foto de perfil</string>
+    <string name="health_chart_calories_unit">Calories</string>
+    <string name="health_chart_sleep_time_format">%1$sh %2$sm</string>
+    <string name="health_chart_sleep_time_good">Suficient</string>
+    <string name="health_chart_sleep_time_low">Insuficient</string>
+    <string name="health_chart_sleep_time_normal">Normal</string>
+    <string name="health_chart_sleep_time_very_good">Bo</string>
+    <string name="health_chart_step_count_unit">Passos</string>
+    <string name="health_no_data">Sense dades de salut</string>
+    <string name="health_sleep_desc">Durada del son %1$s, qualitat del son: %2$s</string>
     <string name="hide_free_aod">"No mostreu temes gratuïts"</string>
     <string name="hide_free_font">Amaga els tipus de lletra gratuïts</string>
     <string name="hide_free_icons">"No mostris icones gratuïtes"</string>
@@ -425,6 +466,7 @@
     <string name="hide_mamual_hide_aod">"No mostreu articles ocults manualment"</string>
     <string name="hide_mamual_hide_font">"No mostris els tipus de lletra ocults"</string>
     <string name="hide_mamual_hide_icons">"No mostreu icones ocultes manualment"</string>
+    <string name="hide_mamual_hide_large_icons">"No mostris les supericones ocultes"</string>
     <string name="hide_mamual_hide_miwallpaper">"No mostreu efectes ocults a la pantalla d'inici"</string>
     <string name="hide_mamual_hide_theme">"No mostris els temes ocults"</string>
     <string name="hide_mamual_hide_wallpaper">"No mostris els fons de pantalla ocults"</string>
@@ -433,9 +475,12 @@
     <string name="hide_pull_down_negative">"No ho amaguis"</string>
     <string name="hide_pull_down_positive">​​Amaga</string>
     <string name="hide_retract_button">Amaga</string>
+    <string name="historical_wallpaper">Utilitzat anteriorment</string>
     <string name="home_apply_failured">"No es pot aplicar el fons de la pantalla d'inici"</string>
     <string name="home_apply_success">S\'ha aplicat el fons de pantalla d\'inici</string>
     <string name="home_daily">Fets destacats diaris</string>
+    <string name="humidity_format">Humitat %s</string>
+    <string name="humidity_format_with_unit">%s</string>
     <string name="i_know">Ho tinc</string>
     <string name="icon_content_description">Icona de diàleg</string>
     <string name="icon_pad_setting_find_more_title">Més icones</string>
@@ -454,7 +499,7 @@ Per desactivar aquesta funció, aneu a Configuració &gt; So i vibració &gt; V�
     <string name="incall_show_remove_success">S\'ha suprimit correctament el vídeo de perfil</string>
     <string name="incall_show_title">Vídeo de perfil</string>
     <string name="incompatible_dialog_cancel">"No ho apliquis"</string>
-    <string name="incompatible_dialog_message">"Aquest tema encara no és totalment compatible amb aquesta versió de MIUI. És possible que algunes pàgines no funcionin correctament."</string>
+    <string name="incompatible_dialog_message">"Aquest tema encara no és totalment compatible amb aquesta versió del sistema. És possible que algunes pàgines no funcionin correctament."</string>
     <string name="incompatible_dialog_ok">D\'acord</string>
     <string name="incompatible_dialog_title">Problemes de compatibilitat</string>
     <string name="install_clock">"Encara no heu instal·lat el rellotge. Voleu baixar-lo ara?"</string>
@@ -471,6 +516,28 @@ Per desactivar aquesta funció, aneu a Configuració &gt; So i vibració &gt; V�
     <string name="kuyin_user_agreement_content_href">Política de privadesa iFlytek</string>
     <string name="lab">Laboratori de temes</string>
     <string name="label">Etiqueta</string>
+    <string name="large_icon_apply_fail_for_in_dock">"No es poden utilitzar supericones per a aplicacions al Dock d'aplicacions"</string>
+    <string name="large_icon_apply_fail_for_in_folder">"No es poden utilitzar supericones per a les aplicacions en carpetes"</string>
+    <string name="large_icon_apply_fail_for_in_oldmode">"Les supericones no són compatibles amb el mode bàsic"</string>
+    <string name="large_icon_apply_fail_for_not_in_launcher">"No puc utilitzar supericones per a aplicacions que no són a la pantalla d'inici"</string>
+    <string name="large_icon_detail_title">%s Súper icones</string>
+    <string name="large_icon_detail_warning_dialog_btn_keep">Súper icones</string>
+    <string name="large_icon_detail_warning_dialog_btn_not_keep">Icones per defecte</string>
+    <string name="large_icon_detail_warning_dialog_msg">"Algunes aplicacions utilitzen icones Super. Seguiu utilitzant Supericones o torneu a les icones predeterminades del tema?"</string>
+    <string name="large_icon_detail_warning_dialog_title">Configuració de les súper icones</string>
+    <string name="large_icon_no_more">Aquí encara no hi ha res</string>
+    <string name="large_icon_no_network">"No s'ha pogut connectar a la xarxa"</string>
+    <string name="large_icon_not_support">"No es poden definir icones per a %s"</string>
+    <string name="large_icon_not_support_current_type">"%s no és compatible amb aquesta icona"</string>
+    <string name="large_icon_official">Omissió</string>
+    <string name="large_icon_picker_haven">Icones disponibles</string>
+    <string name="large_icon_picker_more">Més</string>
+    <string name="large_icon_picker_size">Mida de les icones</string>
+    <string name="large_icon_theme">Temes</string>
+    <string name="large_icon_to_find_more">Veure més</string>
+    <string name="large_icon_warning_install">Instal·lar</string>
+    <string name="large_icon_warning_not_install">Instal·lar %s</string>
+    <string name="large_icon_warning_not_install_msg">Instal·lar %s per poder utilitzar una icona Super. Instal·lar ara?</string>
     <string name="like_list">M\'agrada</string>
     <string name="live_wallpaper">Fons de pantalla dinàmics</string>
     <string name="load_from_local_photos">Galeria</string>
@@ -485,9 +552,14 @@ Per desactivar aquesta funció, aneu a Configuració &gt; So i vibració &gt; V�
     <string name="local_mode_hint">"Estàs utilitzant el mode fora de línia.
 Toqueu per desactivar-lo."</string>
     <string name="local_mode_open">Mode fora de línia</string>
+    <string name="local_notification_default_title">Temes</string>
+    <string name="local_notification_font_trial_title">Consulteu els tipus de lletra nous</string>
+    <string name="local_notification_update_theme_title">Actualitzar els temes</string>
     <string name="local_photos">Fotos locals</string>
     <string name="local_resouce_creator_name">Desenvolupador: %1$s</string>
     <string name="lock_screen_apply">Estableix com a pantalla de bloqueig</string>
+    <string name="lock_screen_keyguard_guide_popup">Fes una ullada a les funcions i el disseny personalitzats i nous de la pantalla de bloqueig</string>
+    <string name="lock_screen_keyguard_tip_title">Nova pantalla de bloqueig personalitzada</string>
     <string name="lockscreen_apply_failured">"No es pot aplicar el fons de la pantalla de bloqueig"</string>
     <string name="lockscreen_apply_failured_but_home_apply_success">"S'ha aplicat el fons de la pantalla d'inici, però no s'ha pogut aplicar el de la pantalla de bloqueig"</string>
     <string name="lockscreen_apply_success">S\'ha aplicat el fons de pantalla de bloqueig</string>
@@ -498,6 +570,7 @@ Toqueu per desactivar-lo."</string>
     <string name="lockscreen_magazine_system_subscribe">%1$s fons de pantalla</string>
     <string name="lockscreen_magazine_system_title">Local</string>
     <string name="lockscreen_magazine_title">Carrusel de fons de pantalla</string>
+    <string name="lockscreen_tip_content">Mantén premuda la pantalla bloquejada per començar a editar-la. Feu-lo realment vostre amb noves opcions i plantilles de personalització.</string>
     <string name="lockscreen_wallpaper">Pantalla de bloqueig</string>
     <string name="lockstyle_personal_settings">Personalitza</string>
     <string name="login_theme">Inicieu la sessió a Temes</string>
@@ -528,27 +601,33 @@ Toqueu aquí per iniciar la sessió ara."</string>
     <string name="miui_clock_city_name_second">Segon rellotge</string>
     <string name="miui_clock_fancy_colon"></string>
     <string name="miui_digital_clock_dot">:</string>
-    <string name="miui_lock_screen_date">EEEE dd/MM</string>
-    <string name="miui_lock_screen_date_12">EEEE dd/MM</string>
-    <string name="miui_lock_screen_date_two_lines">"EEEE
-dd/MM"</string>
-    <string name="miui_lock_screen_date_two_lines_12">"EEEE
-dd/MM"</string>
+    <string name="miui_lock_screen_date">EEE, MMM dd</string>
+    <string name="miui_lock_screen_date_12">EEE, MMM dd</string>
+    <string name="miui_lock_screen_date_two_lines">"MMM dd
+EEE"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"MMM dd
+EEE"</string>
     <string name="miui_lock_screen_large_date">"EEE
-dd/MM"</string>
+M/d"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
-dd/MM"</string>
+M/d"</string>
+    <string name="miui_magazine_c_clock_style2_date">M/d EE</string>
+    <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, MMM dd</string>
+    <string name="miui_magazine_clock_date">M/d</string>
+    <string name="miui_magazine_clock_date_content_description">MM/dd</string>
+    <string name="miui_rhombus_clock_date">MMMM dd</string>
+    <string name="miui_smart_frame_clock_date">M/d</string>
     <string name="miui_vertical_time_format_12">"hh
 mm"</string>
     <string name="miui_vertical_time_format_24">"HH
 mm"</string>
-    <string name="miuishare_account_activate_confirmation">Activa el Compte Mi</string>
+    <string name="miuishare_account_activate_confirmation">Activa el compte Xiaomi</string>
     <string name="miuishare_account_activate_ok">Activa</string>
     <string name="miuishare_account_login_cancel">Cancel·la</string>
-    <string name="miuishare_account_login_confirmation">Inicia sessió al Compte Mi</string>
+    <string name="miuishare_account_login_confirmation">Inicieu la sessió al compte Xiaomi</string>
     <string name="miuishare_account_login_ok">Inicia sessió</string>
-    <string name="miuishare_account_need_activate">La compartició amb Weibo requereix el compte de Weibo associat al Compte Mi. Activeu el vostre compte per continuar.</string>
-    <string name="miuishare_account_need_login">La compartició amb Weibo requereix el compte de Weibo associat al Compte Mi. Inicieu la sessió al vostre compte per continuar.</string>
+    <string name="miuishare_account_need_activate">Per compartir-lo a Weibo cal el compte Weibo associat al vostre compte Xiaomi. Activeu el vostre compte Xiaomi per continuar.</string>
+    <string name="miuishare_account_need_login">Per compartir-lo a Weibo cal el compte Weibo associat al vostre compte Xiaomi. Inicieu la sessió al vostre compte Xiaomi per continuar.</string>
     <string name="miuishare_app_name">Compartició MIUI</string>
     <string name="miuishare_mini_program_title">Reviseu el fons de pantalla que he trobat!</string>
     <string name="miuishare_no_network">"No s'ha pogut connectar a la xarxa."</string>
@@ -563,15 +642,16 @@ mm"</string>
     <string name="miuishare_title_share">Comparteix</string>
     <string name="miuix_access_state_desc">Seleccionat</string>
     <string name="miuix_alphabet_indexer_name">Barra d’índex</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desselecciona</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarqueu-ho tot</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccioneu els elements</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Més</string>
     <string name="miuix_appcompat_cancel_description">Cancel·la</string>
     <string name="miuix_appcompat_confirm_description">Confirma</string>
     <string name="miuix_appcompat_delete_description">Suprimeix</string>
-    <string name="miuix_appcompat_deselect_all">Desselecciona</string>
+    <string name="miuix_appcompat_deselect_all">Desmarqueu-ho tot</string>
     <string name="miuix_appcompat_deselect_all_description">Desselecciona-ho tot</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel·la</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
     <string name="miuix_appcompat_select_all">Selecciona-ho tot</string>
@@ -695,8 +775,6 @@ mm"</string>
     <string name="no_net_work_connection">Comproveu la configuració de la xarxa i torneu-ho a provar.</string>
     <string name="no_network_desc">"No s'ha pogut connectar a la xarxa"</string>
     <string name="no_network_please_retry">Comprova la configuració de la xarxa i torna-ho a provar</string>
-    <string name="no_used_title">no s\'ha utilitzat</string>
-    <string name="no_used_wallpaper">no s\'ha utilitzat</string>
     <string name="no_wallpaper">No hi ha articles encara</string>
     <string name="noon">Migdia</string>
     <string name="not_allow">No concedit</string>
@@ -713,7 +791,7 @@ mm"</string>
     <string name="online_precust_scenery">Paisatge</string>
     <string name="online_search_hint">Cerca recursos en línia</string>
     <string name="order_list">Historial de comandes</string>
-    <string name="ota_recovery_theme_dialog_message">Alguns elements del tema usats anteriorment poden no ser compatibles amb la nova versió de MIUI. Els elements incompatibles se substituiran per opcions predeterminades.</string>
+    <string name="ota_recovery_theme_dialog_message">És possible que alguns elements del tema utilitzat anteriorment no siguin compatibles amb l\'última versió del sistema. Els elements incompatibles se substituiran per opcions predeterminades.</string>
     <string name="ota_recovery_theme_dialog_title">Restauració del tema original</string>
     <string name="ota_recovery_theme_notity_btn">Restaurar</string>
     <string name="ota_recovery_theme_notity_content">"Podeu tornar al tema que heu utilitzat abans de l'actualització"</string>
@@ -721,11 +799,12 @@ mm"</string>
     <string name="pad_fold_exit_wallpaper_warning_content">"No podreu realitzar les accions següents un cop tanqueu la sessió:
 Consultar i utilitzar els elements que heu comprat o afegits als preferits."</string>
     <string name="pad_fold_exit_wallpaper_warning_title">Voleu tancar la sessió de Fons de pantalla i personalització?</string>
-    <string name="pad_fold_log_in_theme_detail"><Data>\"He llegit i accepto l\'&lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Acord d\'Usuari&lt;/a&gt;&lt;/font&gt; i la &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt;&lt;/font&gt;de Fons de pantalla i personalització, així com l\'&lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;Acord d\'Usuari&lt;/a&gt;&lt;/font&gt;&lt;font color=\"#37A5FF\"&gt; i la &lt;a href=\"%4$s\"&gt;Política de privadesa&lt;/a&gt;&lt;/font&gt; del Compte Mi (per iniciar la sessió utilitzant el compte del sistema).\"</Data></string>
+    <string name="pad_fold_log_in_theme_detail"><Data>\"He llegit i accepto el fons de pantalla i la personalització &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Acord d\'usuari&lt;/a&gt;&lt;/font&gt; i &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Política de privacitat&lt;/a&gt;&lt;/font&gt;, així com el compte de Xiaomi &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;Acord d\'usuari&lt;/a&gt;&lt;/font&gt;&lt;font color=\"#37A5FF\"&gt; i &lt;a href=\"%4$s\"&gt;Política de privacitat&lt;/a&gt;&lt;/font&gt; (per iniciar la sessió amb el compte del sistema).\"</Data></string>
     <string name="pad_fold_log_in_wallpaper">Inicieu la sessió a Fons de pantalla i personalització</string>
     <string name="pad_fold_no_permission">Es necessiten permisos d\'emmagatzematge</string>
     <string name="pad_fold_no_permission_detail">Per poder canviar les preferències de personalització i desar els elements baixats, primer permeteu que aquesta funció accedeixi a l\'emmagatzematge.</string>
     <string name="password_toggle_content_description">Mostra la contrasenya</string>
+    <string name="paying">Compra…</string>
     <string name="personalize">Personalització</string>
     <string name="personalize_alarm_ringtone_title">Alarmes</string>
     <string name="personalize_aod_title">AOD</string>
@@ -734,9 +813,11 @@ Consultar i utilitzar els elements que heu comprat o afegits als preferits."</st
     <string name="personalize_default_font">Tipus de lletra per defecte</string>
     <string name="personalize_fingerprint_style_title">Empremta digital</string>
     <string name="personalize_icon_title">Icones</string>
+    <string name="personalize_item_more_setting">Configuració addicional</string>
     <string name="personalize_notify_ringtone_title">Notificacions</string>
     <string name="personalize_notify_style_title">Efectes</string>
     <string name="personalize_recommend_switch_desc">Rebeu recomanacions de contingut personalitzades basades en l\'identificador del dispositiu</string>
+    <string name="personalize_second_space_not_support_buy_widget">"No es poden comprar widgets al segon espai"</string>
     <string name="personalize_second_space_not_support_set_font">"No es pot canviar el tipus de lletra al segon espai"</string>
     <string name="personalize_theme_entrance">Temes</string>
     <string name="personalize_third_font">Tipus de lletra</string>
@@ -749,7 +830,7 @@ Consultar i utilitzar els elements que heu comprat o afegits als preferits."</st
 2. Afegir comentaris i m'agrada, seguir altres persones i interactuar amb elles."</string>
     <string name="phone_exit_theme_warning_title">Voleu tancar la sessió de Temes?</string>
     <string name="phone_log_in_theme">Inicia la sessió a Temes</string>
-    <string name="phone_log_in_theme_detail"><Data>\"He llegit i accepto l\'&lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Acord d\'usuari&lt;/a&gt;&lt;/font&gt; i la &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Politica de privadesa&lt;/a&gt;&lt;/font&gt; de Temes, així com l\'&lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;Acord d\'Usuari&lt;/a&gt;&lt;/font&gt;&lt;font color=\"#37A5FF\"&gt; i la &lt;a href=\"%4$s\"&gt;Política de privadesa&lt;/a&gt;&lt;/font&gt; del Compte Mi(per iniciar la sessió mitjançant el compte del sistema).\"</Data></string>
+    <string name="phone_log_in_theme_detail"><Data>\"He llegit i accepto Temes\" &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Acord d\'usuari&lt;/a&gt;&lt;/font&gt; i &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Política de privacitat&lt;/a&gt;&lt;/font&gt;, així com el compte de Xiaomi &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;Acord d\'usuari&lt;/a&gt;&lt;/font&gt;&lt;font color=\"#37A5FF\"&gt; i &lt;a href=\"%4$s\"&gt;Política de privacitat&lt;/a&gt;&lt;/font&gt; (per iniciar la sessió amb el compte del sistema).\"</Data></string>
     <string name="playing_ringtone">S\'està reproduint</string>
     <string name="pm">pm</string>
     <string name="pref_lockscreen_magazine_summary">Substitueix el fons de pantalla per presentacions de diapositives d’imatges de diverses categories</string>
@@ -838,9 +919,9 @@ Tots els elements de personalització que s'utilitzen actualment en aquest dispo
     <string name="privacy_phone_revoke_agree_detail_content_1">"1. Assegureu-vos que teniu dret a retirar el consentiment abans de continuar.
 2. La retirada del consentiment a la Política de privadesa de Temes no afectarà l'ús normal d'altres productes Xiaomi.
 3. La retirada del consentiment és una acció irreversible. Feu una còpia de seguretat de tots els elements importants abans de continuar, ja que és possible que se suprimeixin permanentment. Recordeu que no podreu reconsiderar la vostra decisió un cop retirat el vostre consentiment. Les dades següents s'eliminaran o es convertiran en anònimes de manera permanent després de la retirada del consentiment (excepte que les lleis i els reglaments estableixin el contrari o que les autoritats reguladores ho exigeixin d'una altra manera):"</string>
-    <string name="privacy_phone_revoke_agree_detail_content_2">"Totes les comandes (incloses les de pagament) fetes als dispositius Xiaomi on heu utilitzat el vostre Compte Mi. Ja no podreu utilitzar els elements que hàgiu comprat.
-Tota la informació sobre els vostres gustos, comentaris, puntuacions i seguidors generada als dispositius Xiaomi on heu utilitzat el vostre Compte Mi.
-Tots els temes, fons de pantalla, fons de pantalla dinàmics, tipus de lletra, icones i tons de trucada baixats en aquest dispositiu.
+    <string name="privacy_phone_revoke_agree_detail_content_2">"Totes les comandes (incloses les comandes pagades) realitzades als dispositius Xiaomi on heu utilitzat el vostre compte Xiaomi. Ja no podràs utilitzar els articles que vas comprar.
+Tota la informació sobre els vostres gustos, comentaris, valoracions i seguidors generats als dispositius Xiaomi on heu utilitzat el vostre compte Xiaomi.
+Tots els temes, fons de pantalla, fons de pantalla dinàmics, tipus de lletra, icones i tons de trucada descarregats a aquest dispositiu.
 Tots els registres de l'historial de cerca, les preferències de permisos, la configuració i els elements emmagatzemats a la memòria cau generats en aquest dispositiu.
 Tots els elements de personalització que s'utilitzen actualment en aquest dispositiu. Es restauraran les preferències de personalització per defecte."</string>
     <string name="privacy_phone_revoke_agree_detail_content_3">"4. Després de retirar el vostre consentiment a la política de privadesa de Temes, deixarem de recollir la vostra informació personal. La informació personal que ja s'ha recopilat i conservat se suprimirà dins del període específic d'acord amb les lleis i regulacions aplicables, tret que s'exigeix el contrari. 
@@ -856,8 +937,8 @@ Tots els elements de personalització que s'utilitzen actualment en aquest dispo
     <string name="privacy_remind_user_mode_content"><Data>Accepteu la nostra Política de privadesa per utilitzar aquesta funció. Llegiu la nostra &lt;font color=\"#37A5FF\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Política de privadesa&lt;/a&gt;&lt;/font&gt; per saber com recopilem, utilitzem, divulguem, processem i emmagatzemem la informació personal que ens proporcioneu quan utilitzeu Temes.</Data></string>
     <string name="privacy_remind_user_mode_title">Atenció</string>
     <string name="privacy_revoke_agree_content">Retirada del consentiment</string>
-    <string name="privacy_revoke_agree_content_1">1. Totes les comandes (incloses les de pagament) fetes als dispositius Xiaomi on heu utilitzat el vostre Compte Mi. Ja no podreu utilitzar els elements que hàgiu comprat.</string>
-    <string name="privacy_revoke_agree_content_2">2. Tota la informació sobre els vostres gustos, comentaris, puntuacions i seguidors generada als dispositius Xiaomi on heu utilitzat el vostre Compte Mi.</string>
+    <string name="privacy_revoke_agree_content_1">1. Totes les comandes (incloses les comandes pagades) realitzades als dispositius Xiaomi on heu utilitzat el vostre compte Xiaomi. Ja no podràs utilitzar els articles que vas comprar.</string>
+    <string name="privacy_revoke_agree_content_2">2. Tota la informació sobre els vostres gustos, comentaris, valoracions i seguidors generats als dispositius Xiaomi on heu utilitzat el vostre compte Xiaomi.</string>
     <string name="privacy_revoke_agree_content_5">5. Tots els elements de personalització que s\'utilitzen actualment en aquest dispositiu. Es restauraran les preferències de personalització per defecte.</string>
     <string name="privacy_revoke_agree_data_warning">Les dades següents s\'eliminaran o es convertiran en anònimes de manera permanent després de la retirada del consentiment (excepte que les lleis i els reglaments estableixin el contrari o que les autoritats reguladores ho exigeixin d\'una altra manera):</string>
     <string name="privacy_revoke_succeed">S’ha retirat el consentiment correctament</string>
@@ -869,10 +950,10 @@ Tots els elements de personalització que s'utilitzen actualment en aquest dispo
     <string name="private_pad_fold_revoke_agree_detail_content_1">"1. Assegureu-vos que teniu dret a retirar el consentiment abans de continuar.
 2. La retirada del consentiment a la Política de privadesa de Fons de pantalla i personalització no afectarà l'ús normal d'altres productes Xiaomi.
 3. La retirada del consentiment és una acció irreversible. Feu una còpia de seguretat de tots els elements importants abans de continuar, ja que és possible que s'eliminin permanentment. Recordeu que no podreu reconsiderar la vostra decisió un cop retirat el vostre consentiment. Les dades següents se suprimiran o es convertiran en anònimes de manera permanent després de la retirada del consentiment (excepte que les lleis i els reglaments estableixin el contrari o que les autoritats reguladores ho exigeixin d'una altra manera):"</string>
-    <string name="private_pad_fold_revoke_agree_detail_content_2">"Totes les comandes (incloses les de pagament) fetes als dispositius Xiaomi on heu utilitzat el vostre compte Mi. Ja no podreu utilitzar els elements que heu comprat.
-Tota la informació sobre els vostres m'agrada, comentaris, puntuacions i seguidors generada als dispositius Xiaomi on heu utilitzat el compte Mi.
-Tots els fons de pantalla, tipus de lletra i tons de trucada baixats a aquest dispositiu.
-Totes les preferències de permisos, la configuració i els elements de la memòria cau generats en aquest dispositiu.
+    <string name="private_pad_fold_revoke_agree_detail_content_2">"Totes les comandes (incloses les comandes pagades) realitzades als dispositius Xiaomi on heu utilitzat el vostre compte Xiaomi. Ja no podràs utilitzar els articles que vas comprar.
+Tota la informació sobre els vostres gustos, comentaris, valoracions i seguidors generats als dispositius Xiaomi on heu utilitzat el vostre compte Xiaomi.
+Tots els fons de pantalla, tipus de lletra i tons de trucada descarregats a aquest dispositiu.
+Totes les preferències de permisos, configuracions i elements emmagatzemats a la memòria cau generats en aquest dispositiu.
 Tots els elements de personalització que s'utilitzen actualment en aquest dispositiu. Es restauraran les preferències de personalització per defecte."</string>
     <string name="private_pad_fold_revoke_agree_detail_content_3">"4. Després de retirar el vostre consentiment a la Política de privadesa de Fons de pantalla i personalització, deixarem de recollir la vostra informació personal. La informació personal que ja s'ha recopilat i conservat s'eliminarà dins del període específic d'acord amb les lleis i regulacions aplicables, tret que s'exigeix el contrari. 
 5. La retirada del consentiment no implica exempció o mitigació de les responsabilitats derivades de les accions realitzades amb anterioritat a la retirada del consentiment."</string>
@@ -886,7 +967,8 @@ Podeu concedir aquest permís a Configuració &gt; Privadesa."</string>
     <string name="pull_down_view_refresh">Actualitza</string>
     <string name="pull_down_view_title">"Què hi ha de nou"</string>
     <string name="purchased">Comandes</string>
-    <string name="read_and_agree_account_privacy"><Data>\"He llegit i accepto l\'&lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;Acord d\'usuari&lt;/a&gt;&lt;/font&gt; i la &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%4$s\"&gt;Política de privadesa&lt;/a&gt;&lt;/font&gt; del Compte Mi.\"</Data></string>
+    <string name="rain_probability_desc">Probabilitat de precipitació: %s</string>
+    <string name="read_and_agree_account_privacy"><Data>\"He llegit i accepto el compte Xiaomi &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;Acord d\'usuari&lt;/a&gt;&lt;/font&gt; i &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%4$s\"&gt;Política de privacitat&lt;/a&gt;&lt;/font&gt;.\"</Data></string>
     <string name="recently_used">Utilitzats recentment</string>
     <string name="recommend_trigger">Recomanacions personalitzades</string>
     <string name="recommend_trigger_summary">Activeu-vos per rebre recomanacions segons les vostres preferències</string>
@@ -905,7 +987,7 @@ Podeu concedir aquest permís a Configuració &gt; Privadesa."</string>
     <string name="resource_account_abnormal_state">Error en el compte. Espereu un o dos minuts i torneu-ho a provar.</string>
     <string name="resource_account_fail_to_add">"No es pot afegir el compte"</string>
     <string name="resource_account_login">Inicia la sessió</string>
-    <string name="resource_account_login_before_action">Inicieu la sessió al Compte Mi ara</string>
+    <string name="resource_account_login_before_action">Inicieu la sessió al vostre compte Xiaomi ara</string>
     <string name="resource_account_login_title">Inicia la sessió</string>
     <string name="resource_account_switch">Canvia</string>
     <string name="resource_alarm_default">Alarma</string>
@@ -1030,6 +1112,7 @@ Podeu concedir aquest permís a Configuració &gt; Privadesa."</string>
     <string name="resource_list_title">Seleccionats recentment</string>
     <string name="resource_local_picker">Trieu un to de trucada local</string>
     <string name="resource_menu_refresh">Actualitza</string>
+    <string name="resource_mi_ai_picker">Trieu el meu to de trucada AI</string>
     <string name="resource_mute">Cap</string>
     <string name="resource_my">Local</string>
     <string name="resource_network_diagnostics"><u>Diagnòstic de xarxa</u></string>
@@ -1062,6 +1145,7 @@ Podeu concedir aquest permís a Configuració &gt; Privadesa."</string>
     <string name="resource_restore_succ">S\'ha restaurat correctament</string>
     <string name="resource_ringtone_default">Tons</string>
     <string name="resource_ringtone_playing_error">Error</string>
+    <string name="resource_ringtone_too_large_waring">Els fitxers de tons de trucada han de ser %1$d MB o menys</string>
     <string name="resource_ringtone_volume_mute">El timbre està silenciat</string>
     <string name="resource_save_to_note">Desa a Notes</string>
     <string name="resource_search_color_hint_blue">Blau</string>
@@ -1071,6 +1155,7 @@ Podeu concedir aquest permís a Configuració &gt; Privadesa."</string>
     <string name="resource_search_color_hint_red">Vermell</string>
     <string name="resource_search_color_hint_yellow">Groc</string>
     <string name="resource_search_history">Historial de cerques</string>
+    <string name="resource_search_hot_tag">Popular</string>
     <string name="resource_search_list_empty">"No s'ha trobat res."</string>
     <string name="resource_see_more">Mostrar-ho tot</string>
     <string name="resource_select">Selecciona</string>
@@ -1121,6 +1206,10 @@ Podeu concedir aquest permís a Configuració &gt; Privadesa."</string>
     <string name="resource_waiting_download">S\'està esperant</string>
     <string name="resource_waiting_pause">Pausa</string>
     <string name="resource_wallpaper_download">Baixa el fons de pantalla</string>
+    <string name="restore_default_change_wallpaper_when_special_lockscreen">"Actualment fas servir una plantilla de pantalla bloquejada. Si continueu, la pantalla bloquejada es restaurarà de manera predeterminada i se substituiran els fons de pantalla de la pantalla d'inici i de bloqueig. Sol·licita-ho ara?"</string>
+    <string name="restore_default_lock_style_apply_superwallpaper">"Aquesta plantilla de pantalla bloquejada no admet fons de pantalla Super. Un cop aplicat, la pantalla bloquejada tornarà a ser predeterminada i els fons de pantalla d'inici i bloqueig se substituiran. Sol·licita-ho ara?"</string>
+    <string name="restore_default_lockscreen_when_special_lock_style">"Actualment fas servir una plantilla de pantalla bloquejada. Si continueu, la pantalla bloquejada es restaurarà amb la funció predeterminada. Sol·licita-ho ara?"</string>
+    <string name="restore_history_lock_screen_when_apply_theme">"Actualment utilitzeu un tema de tercers. Si canvies el fons de pantalla bloquejat, això pot provocar que el rellotge de la pantalla bloquejada es restauri per defecte. Sol·licita-ho ara?"</string>
     <string name="restore_home_icon_text">Afegeix una drecera a la pantalla d\'inici</string>
     <string name="restore_icon_later">Podeu tornar a afegir la drecera de la pantalla d\'inici a la Configuració</string>
     <string name="ringtone_confirm_dialog_message">"La durada d'aquest to de trucada és relativament llarg. Voleu utilitzar-lo igualment?"</string>
@@ -1146,9 +1235,11 @@ Podeu concedir aquest permís a Configuració &gt; Privadesa."</string>
     <string name="search_sort_news">Nou primer</string>
     <string name="search_sort_synthesize">General</string>
     <string name="search_sort_top">Popular primer</string>
+    <string name="search_view_description_clear">Esborra la cerca</string>
     <string name="selected_resource_file_invalid">"No es pot utilitzar el fitxer del recurs seleccionat"</string>
     <string name="send">Envia</string>
     <string name="server_internal_error">S\'ha produït un error en el servidor. Espereu un minut o dos i torneu-ho a provar.</string>
+    <string name="server_message">Línia directa d\'atenció al client: 400–100–5678</string>
     <string name="set_as_colorring">Estableix com a to de trucada personalitzat</string>
     <string name="set_calling">Estableix</string>
     <string name="set_color_ring_back_tone">Estableix un to de trucada personalitzat</string>
@@ -1168,6 +1259,7 @@ Podeu concedir aquest permís a Configuració &gt; Privadesa."</string>
     <string name="share_content_text_first_theme">Comproveu-ho! El tema \"%1$s\" dona al telèfon un aspecte completament nou.</string>
     <string name="share_content_text_first_wallpaper">Comproveu-ho! El fons de pantalla \"%1$s\" dona al telèfon un aspecte completament nou.</string>
     <string name="share_content_text_second">" Trobeu el vostre propi estil a %1$s!"</string>
+    <string name="share_content_topic">\#Xiaomi Temes#</string>
     <string name="share_copy_theme_url">Copia l\'URL del tema</string>
     <string name="share_copy_url_success">Text copiat</string>
     <string name="share_copy_wallpaper_url">Copia l\'URL del fons de pantalla</string>
@@ -1175,7 +1267,6 @@ Podeu concedir aquest permís a Configuració &gt; Privadesa."</string>
     <string name="share_save_success">Desat</string>
     <string name="share_save_to_photo">Galeria</string>
     <string name="share_theme_content_text">"Podeu descarregar un tema increïble \"%1$s\" aquí: %2$s. Des de "</string>
-    <string name="share_vipaccount">La meva comunitat</string>
     <string name="share_wallpaper_content_text">"Podeu descarregar un increïble fons de pantalla \"%1$s\" aquí: %2$s. Des de "</string>
     <string name="shortcut_add">Afegeix</string>
     <string name="shortcut_cancel">No gràcies</string>
@@ -1194,18 +1285,25 @@ Podeu concedir aquest permís a Configuració &gt; Privadesa."</string>
     <string name="show_mamual_hide_aod">Mostra els elements ocults manualment</string>
     <string name="show_mamual_hide_font">Mostra els tipus de lletra ocults</string>
     <string name="show_mamual_hide_icons">Mostra les icones ocultes manualment</string>
+    <string name="show_mamual_hide_large_icons">Mostra les súper icones ocultes</string>
     <string name="show_mamual_hide_miwallpaper">Mostra els efectes ocults de la pantalla d\'inici</string>
     <string name="show_mamual_hide_theme">Mostra els temes ocults</string>
     <string name="show_mamual_hide_wallpaper">Mostra els fons de pantalla ocults</string>
     <string name="show_phone_wallpaper">Mostra els fons de pantalla del telèfon</string>
     <string name="show_theme_community">Drecera de la comunitat</string>
     <string name="show_theme_community_desc">Mostra o amaga la drecera de la comunitat de temes</string>
+    <string name="somatosensory_temperature_format">Se sent com %s°</string>
     <string name="still_apply">Aplica</string>
     <string name="storage_migration_exit_msg">Per fer que Temes sigui compatible amb les pròximes versions d\'Android, hem traslladat els elements baixats a una ubicació nova. Reinicieu l\'aplicació per aplicar els canvis i veure el contingut baixat.</string>
     <string name="storage_permission_denied_desc">Permet que Temes accedeixi a l\'emmagatzematge per poder veure els elements</string>
     <string name="sunday">Diumenge</string>
     <string name="sunday_short">Dg.</string>
     <string name="sunday_shortest">dg.</string>
+    <string name="sunrise_time_format">Ortus %s</string>
+    <string name="sunrise_time_format_desc">Hora de sortida del sol: %s</string>
+    <string name="sunrise_time_format_tomorrow_desc">"La sortida del sol de demà: %s"</string>
+    <string name="sunset_time_format">Capvespre %s</string>
+    <string name="sunset_time_format_desc">Hora de la posta de sol: %s</string>
     <string name="super_wallpaper">Súper fons de pantalla</string>
     <string name="super_wallpaper_dialog_content">L\'estalvi de bateria desactivarà les funcions dinàmiques dels fons de pantalla.</string>
     <string name="super_wallpaper_list_footer_text">Estigueu atents a les nostres novetats!</string>
@@ -1216,7 +1314,7 @@ Podeu concedir aquest permís a Configuració &gt; Privadesa."</string>
     <string name="super_wallpaper_setting_coordinate_title">Coordenades</string>
     <string name="super_wallpaper_setting_view_height_title">Altitud</string>
     <string name="supersave_mode_toast_message">"Aquesta funció no està disponible quan s'utilitza l'estalvi de bateria Ultra. Desactiveu l'estalvi de bateria Ultra per poder-lo utilitzar."</string>
-    <string name="superwallpaper_has_bound_account_dialog_content">Aquest fons de pantalla ja està associat a un altre compte Mi. Inicieu la sessió amb aquest compte Mi i torneu-ho a provar.</string>
+    <string name="superwallpaper_has_bound_account_dialog_content">Aquest fons de pantalla ja està associat a un altre compte de Xiaomi. Inicieu la sessió amb aquest compte de Xiaomi i torneu-ho a provar.</string>
     <string name="support_theme_store_des">Els bons temes sempre són creats per dissenyadors amb talent. La nostra aplicació conté una petita quantitat d’anuncis que ens permeten donar suport al seu treball.</string>
     <string name="support_theme_store_supported">Gràcies pel teu recolzament!</string>
     <string name="support_theme_store_title">Donar suport als nostres dissenyadors</string>
@@ -1291,6 +1389,7 @@ Podeu concedir aquest permís a Configuració &gt; Privadesa."</string>
     <string name="theme_component_title_framework">Vores</string>
     <string name="theme_component_title_homepage">Inici</string>
     <string name="theme_component_title_icon">Icones</string>
+    <string name="theme_component_title_large_icon">Súper icones</string>
     <string name="theme_component_title_launcher">Safata de favorits</string>
     <string name="theme_component_title_lockstyle">Estil de bloqueig</string>
     <string name="theme_component_title_lockwallpaper">Pantalla de bloqueig</string>
@@ -1325,7 +1424,7 @@ Podeu concedir aquest permís a Configuració &gt; Privadesa."</string>
     <string name="theme_is_external_priority_storage_summary">L\'aplicació Temes es reiniciarà immediatament per aplicar els canvis</string>
     <string name="theme_log_out">Tanca la sessió</string>
     <string name="theme_multiple_button_title_customize">Personalitza</string>
-    <string name="theme_need_login_dialog_content">Inicieu la sessió al vostre compte Mi per continuar.</string>
+    <string name="theme_need_login_dialog_content">Inicieu la sessió al vostre compte Xiaomi per continuar.</string>
     <string name="theme_no">No</string>
     <string name="theme_not_include_module_desc">"Aquest tema no conté els elements següents: %s"</string>
     <string name="theme_on_the_phone_alert">"No es pot reproduir durant les trucades"</string>
@@ -1369,7 +1468,7 @@ Podeu concedir aquest permís a Configuració &gt; Privadesa."</string>
     <string name="title_system_audio_notification_resource">Notificacions del sistema</string>
     <string name="title_system_audio_resource">Tons del sistema</string>
     <string name="title_system_wallpaper_resource">Fons de pantalla del sistema</string>
-    <string name="to_activate_the_account">Activeu el vostre Compte Mi ara</string>
+    <string name="to_activate_the_account">Activa el teu compte Xiaomi ara</string>
     <string name="toast_both_all_apply_failured">"No s'ha pogut aplicar a la pantalla d'inici o de bloqueig"</string>
     <string name="toast_both_all_apply_success">S\'ha aplicat correctament a les pantalles d\'inici i de bloqueig</string>
     <string name="toast_home_apply_failured">"No s'ha pogut aplicar a la pantalla d'inici"</string>
@@ -1426,7 +1525,7 @@ Vés a Temes &gt; El meu compte &gt; Laboratori de temes per obtenir més opcion
     <string name="update_btn">ACTUALITZA ARA</string>
     <string name="update_check">Cerca actualitzacions</string>
     <string name="update_checking">S\'estan cercant actualitzacions…</string>
-    <string name="update_community_tip">Actualitzeu la meva comunitat per poder utilitzar aquesta funció</string>
+    <string name="update_community_tip">Actualitzeu la Comunitat Xiaomi per poder utilitzar aquesta funció</string>
     <string name="update_downloading">S\'estan baixant les actualitzacions…</string>
     <string name="update_fail">"No s'ha pogut obtenir informació. Torneu-ho a provar."</string>
     <string name="update_flag">Actualitza</string>
@@ -1435,10 +1534,12 @@ Vés a Temes &gt; El meu compte &gt; Laboratori de temes per obtenir més opcion
     <string name="update_no_net">S\'ha produït un error de xarxa. Torneu-ho a provar.</string>
     <string name="update_title">NOVA ACTUALITZACIÓ DISPONIBLE</string>
     <string name="use_hint">Atenció</string>
+    <string name="use_now">Sumar</string>
     <string name="using_theme_has_update_tips">Hi ha disponible una actualització per a aquest tema.</string>
     <string name="using_theme_next_automatic_update">Actualitzacions automàtiques</string>
     <string name="using_theme_next_automatic_update_summary">Actualitza els temes baixats mitjançant la Wi-Fi quan el dispositiu està bloquejat</string>
     <string name="using_theme_show_ad">Recomanacions</string>
+    <string name="uvi_format_desc">Índex ultraviolat: %1$s, %2$s</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
     <string name="version_update">Cerca actualitzacions</string>
@@ -1496,6 +1597,7 @@ Vés a Temes &gt; El meu compte &gt; Laboratori de temes per obtenir més opcion
     <string name="wallpaper_loop_title">Presentació de fons de pantalla</string>
     <string name="wallpaper_loop_title_desk_wallpaper">Presentació de fons de pantalla d\'inici</string>
     <string name="wallpaper_loop_title_lock_walpaper">Presentació de fons de pantalla de bloqueig</string>
+    <string name="wallpaper_magic_mode_preview_tip">Previsualització de la pantalla de bloqueig</string>
     <string name="wallpaper_no_favorite">Encara no hi ha elements.</string>
     <string name="wallpaper_no_record">Encara no hi ha elements.</string>
     <string name="wallpaper_online">Fons de pantalla en línia</string>
@@ -1533,7 +1635,12 @@ Vés a Temes &gt; El meu compte &gt; Laboratori de temes per obtenir més opcion
     <string name="wallpaper_settings_page_title">Fons de pantalla</string>
     <string name="wallpaper_share_alert">Hi ha hagut un error. Espereu un minut o dos i torneu-ho a provar.</string>
     <string name="wallpaper_static">Estàtic</string>
+    <string name="warning_miui_optimization_closed_dialog_agree">Configuració</string>
+    <string name="warning_miui_optimization_closed_dialog_disagree">Aplicar</string>
+    <string name="warning_miui_optimization_closed_dialog_message">"Sembla que no heu activat l'optimització del sistema. Sense ell, aquest tema no funcionarà correctament quan s'apliqui. Podeu aplicar-lo de totes maneres o activar l'optimització del sistema a Configuració."</string>
+    <string name="warning_miui_optimization_closed_dialog_title">Atenció</string>
     <string name="warning_subscribe_wallpaper_group_content">"Heu activat la presentació de diapositives de la pantalla d'inici. %1$s s'aplicarà a la pantalla d'inici."</string>
+    <string name="weather_no_data">Sense dades meteorològiques</string>
     <string name="wechat_not_found">Instal·leu primer WeChat</string>
     <string name="wednesday">Dimecres</string>
     <string name="wednesday_short">Dc.</string>
@@ -1543,6 +1650,19 @@ Vés a Temes &gt; El meu compte &gt; Laboratori de temes per obtenir més opcion
     <string name="wifi_check_confirm">Confirma</string>
     <string name="wifi_check_message">Voleu utilitzar les dades mòbils per baixar les actualitzacions?</string>
     <string name="wifi_check_tip">"No ho mostris més"</string>
+    <string name="wind_direction_0">Vent N</string>
+    <string name="wind_direction_1">Vent del NE</string>
+    <string name="wind_direction_1_f">Vent del NE</string>
+    <string name="wind_direction_2">Vent E</string>
+    <string name="wind_direction_3">Vent SE</string>
+    <string name="wind_direction_3_f">Vent SE</string>
+    <string name="wind_direction_4">Vent S</string>
+    <string name="wind_direction_5">Vent SW</string>
+    <string name="wind_direction_5_f">Vent SW</string>
+    <string name="wind_direction_6">Vent W</string>
+    <string name="wind_direction_7">Vent del NW</string>
+    <string name="wind_direction_7_f">Vent del NW</string>
+    <string name="wind_format">%1$s | Nivell %2$s</string>
     <string name="xiaoai_speech_not_installed_download">Baixa</string>
     <string name="xiaoai_speech_not_installed_message">Baixeu i instal·leu l\'assistent de veu Mi AI per continuar.</string>
     <string name="xiaoai_speech_not_installed_title">"L'assistent de veu Mi AI no està instal·lat."</string>

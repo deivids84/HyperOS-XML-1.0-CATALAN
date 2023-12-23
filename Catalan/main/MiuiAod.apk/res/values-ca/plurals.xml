@@ -5,16 +5,16 @@
         <item quantity="other">Fa 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Fa 1 hora</item>
-        <item quantity="other">Fa 1 hora</item>
+        <item quantity="one">%d Fa una hora</item>
+        <item quantity="other">%d Fa una hora</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
         <item quantity="other">Fa mitja hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">En 1 hora</item>
-        <item quantity="other">En 1 hora</item>
+        <item quantity="one">Dins %d hora</item>
+        <item quantity="other">Dins %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">En mitja hora</item>
@@ -25,20 +25,24 @@
         <item quantity="other">Immediatament</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">en %d mins</item>
-        <item quantity="one">en 1 min</item>
+        <item quantity="other">Dins %d Minuts</item>
+        <item quantity="one">Dins %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ara mateix</item>
         <item quantity="other">Ara mateix</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Fa %d min</item>
-        <item quantity="one">Fa 1 min</item>
+        <item quantity="other">%d fa minuts</item>
+        <item quantity="one">%d Fa uns minuts</item>
     </plurals>
     <plurals name="aod_dual_togother_city">
         <item quantity="other">" %1$shores %2$s"</item>
         <item quantity="one">" %1$shora %2$s"</item>
+    </plurals>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">Pressió atmosfèrica: %s Hectopascals</item>
+        <item quantity="one">Pressió atmosfèrica: %s Hectopascal</item>
     </plurals>
     <plurals name="character_pitch_minus">
         <item quantity="other">Reducció de l\'espaiat de caràcters. %sd\'espaiat de caràcters .</item>
@@ -61,6 +65,54 @@ Les animacions més llargues s'aturaran en aquest punt."</item>
     <plurals name="half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
         <item quantity="other">Fa mitja hora</item>
+    </plurals>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">Cremat %1$s Calories</item>
+        <item quantity="one">Cremat %1$s Caloria</item>
+    </plurals>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">Objectiu calòric: %1$s Calories</item>
+        <item quantity="one">Objectiu calòric: %1$s Caloria</item>
+    </plurals>
+    <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s/%2$s Kcal</item>
+        <item quantity="one">%1$s/%2$s Kcal</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">Temps de l\'activitat: %1$s Minuts</item>
+        <item quantity="one">Temps de l\'activitat: %1$s minut</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">Objectiu de l\'activitat: %1$s Minuts</item>
+        <item quantity="one">Objectiu de l\'activitat: %1$s minut</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s Minuts</item>
+        <item quantity="one">%1$s/%2$s min</item>
+    </plurals>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">Es va aixecar dins %1$s Hores</item>
+        <item quantity="one">Es va aixecar dins %1$s hora</item>
+    </plurals>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">Objectiu dempeus: %1$s Hores</item>
+        <item quantity="one">Objectiu dempeus: %1$s hora</item>
+    </plurals>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s Hores</item>
+        <item quantity="one">%1$s/%2$s H</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">Recompte de passos actuals: %1$s Passos</item>
+        <item quantity="one">Recompte de passos actuals: %1$s esglaó</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">Objectiu del pas: %1$s Passos</item>
+        <item quantity="one">Objectiu del pas: %1$s esglaó</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s Passos</item>
+        <item quantity="one">%1$s/%2$s esglaó</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="one">En 1 hora</item>
@@ -101,5 +153,9 @@ Les animacions més llargues s'aturaran en aquest punt."</item>
     <plurals name="num_minutes_ago">
         <item quantity="other">Fa %d minuts</item>
         <item quantity="one">Fa 1 minut</item>
+    </plurals>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">Temperatura: %1$s Graus %2$s</item>
+        <item quantity="one">Temperatura: %1$s grau %2$s</item>
     </plurals>
 </resources>

@@ -36,8 +36,8 @@
     <string name="auth_fingerprint_content_message">Poseu el dit al sensor</string>
     <string name="auth_fingerprint_content_message_error">"No s'ha pogut escanejar l'empremta, torneu-ho a provar"</string>
     <string name="auth_fingerprint_title">Verifiqueu la empremta</string>
-    <string name="autofill_description">"MIUI pot xifrar i emmagatzemar les vostres contrasenyes perquè pugueu introduir-les sempre que ho necessiteu automàticament. Xiaomi no podrà llegir les vostres contrasenyes xifrades."</string>
-    <string name="autofill_hint_email_address">Correu</string>
+    <string name="autofill_description">"Xiaomi pot xifrar i emmagatzemar les vostres contrasenyes perquè pugueu introduir-les automàticament sempre que les necessiteu. No podrem llegir les teves contrasenyes xifrades."</string>
+    <string name="autofill_hint_email_address">Compte</string>
     <string name="autofill_hint_name">Nom</string>
     <string name="autofill_hint_password">Contrasenya</string>
     <string name="autofill_hint_phone">Número de telèfon</string>
@@ -49,6 +49,7 @@
     <string name="autofill_password_activity_label">Codis de verificació</string>
     <string name="autofill_service_label">Gestiona les contrasenyes</string>
     <string name="autofill_setting_activity_label">Gestiona les contrasenyes</string>
+    <string name="back_button_label">Esquena</string>
     <string name="cancel">Cancel·la</string>
     <string name="change_passwork_dialog_content">"Ja heu desat una contrasenya per a aquest compte. Voleu actualitzar la contrasenya ara?"</string>
     <string name="change_passwork_dialog_title">Voleu actualitzar la contrasenya?</string>
@@ -74,21 +75,23 @@
     <string name="friday">divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
+    <string name="hide_password_talkback">Amagar contrasenya</string>
     <string name="invalid_package_signature">La signatura de l\'aplicació no és vàlida</string>
     <string name="login_mi_account_alert">Atenció</string>
     <string name="login_mi_account_summary">El gestor de contrasenyes sincronitza les contrasenyes amb el vostre compte Xiaomi. Inicieu la sessió ara?</string>
     <string name="midnight">Nit</string>
     <string name="miuix_access_state_desc">Seleccionat</string>
     <string name="miuix_alphabet_indexer_name">Barra d\'índex</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desseleccioneu</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarqueu-ho tot</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccioneu elements</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Més</string>
     <string name="miuix_appcompat_cancel_description">Cancel · lar</string>
     <string name="miuix_appcompat_confirm_description">Confirmeu</string>
     <string name="miuix_appcompat_delete_description">Suprimeix</string>
-    <string name="miuix_appcompat_deselect_all">Desseleccioneu</string>
+    <string name="miuix_appcompat_deselect_all">Desmarqueu-ho tot</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleccionar tot</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel · lar</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
     <string name="miuix_appcompat_select_all">Seleccionar tot</string>
@@ -160,9 +163,9 @@
     <string name="search">Cerca</string>
     <string name="search_menu_title">Cerca</string>
     <string name="send">Enviar</string>
-    <string name="settings_clear_data_confirmation_description">"Si suprimiu les contrasenyes ara, les haureu d'introduir manualment la propera vegada que inicieu la sessió.
-Voleu suprimir la contrasenya?"</string>
+    <string name="settings_clear_data_confirmation_description">"Si suprimiu contrasenyes ara, les haureu d'introduir manualment la propera vegada que inicieu la sessió. Esborrar la contrasenya de totes maneres?"</string>
     <string name="settings_clear_data_confirmation_title">Supressió de contrasenyes</string>
+    <string name="show_password_talkback">Mostra la contrasenya</string>
     <string name="sunday">Diumenge</string>
     <string name="sunday_short">Dg.</string>
     <string name="sunday_shortest">dg.</string>
@@ -175,7 +178,7 @@ Voleu suprimir la contrasenya?"</string>
     <string name="tuesday">Dimarts</string>
     <string name="tuesday_short">Dt.</string>
     <string name="tuesday_shortest">dt.</string>
-    <string name="using_miui_autofill_message">Per introduir contrasenyes automàticament, MIUI desarà la informació del compte i les contrasenyes al dispositiu.</string>
+    <string name="using_miui_autofill_message">"Per introduir contrasenyes automàticament, desarem la informació i les contrasenyes del compte al dispositiu."</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
     <string name="wednesday">Dimecres</string>

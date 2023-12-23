@@ -35,10 +35,13 @@
     <string name="ai_mode_auto">Automàtic</string>
     <string name="ai_mode_manual">Manualment</string>
     <string name="ai_mode_subtitles">Subtítols</string>
+    <string name="align_satellite_model_exit">Sortida</string>
+    <string name="align_satellite_model_use">Començar</string>
     <string name="am">AM</string>
     <string name="antifraud_center">Plataforma d’avís antifrau</string>
     <string name="antifraud_center_incoming_prompt">"No et perdis cap trucada de la plataforma oficial d’avís antifrau"</string>
     <string name="antispam_local_marked">Localment marcat</string>
+    <string name="antispam_notification_text">Toqueu per activar les funcions de DND intel·ligent</string>
     <string name="antispam_notification_title">Número desconegut</string>
     <string name="antispam_provider">Identificat per %s</string>
     <string name="bluetooth_permission_content">S\'han actualitzat els permisos del sistema. Permeteu que aquesta aplicació accedeixi als noms dels 
@@ -46,35 +49,10 @@ dispositius Bluetooth per poder veure\'ls.</string>
     <string name="bluetooth_permission_grant_immediately">Permet</string>
     <string name="bluetooth_permission_later">Ara no</string>
     <string name="bluetooth_permission_title">Permisos necessaris</string>
-    <string name="callFailed_cb_enabled">"No podeu fer trucades mentre estigui activada la restricció de trucades."</string>
-    <string name="callFailed_congestion">Xarxa ocupada</string>
-    <string name="callFailed_dialToDial">Petició dial modificada a dial amb diferent número.</string>
-    <string name="callFailed_dialToSs">Petició dial modificada a petició SS.</string>
-    <string name="callFailed_dialToUssd">Petició dial modificada a petició USSD.</string>
-    <string name="callFailed_dsac_restricted">Totes les trucades estan restringides pel control d\'accés.</string>
-    <string name="callFailed_dsac_restricted_emergency">El control d\'accés restringeix les trucades d\'emergència.</string>
-    <string name="callFailed_dsac_restricted_normal">El control d\'accés restringeix les trucades normals.</string>
-    <string name="callFailed_fdn_only">Les trucades sortints estan limitades als NMP.</string>
-    <string name="callFailed_incoming_cb_enabled">Les trucades entrants es bloquejaran.</string>
-    <string name="callFailed_invalid_credentials">Nom d\'usuari o mot de pas incorrecte</string>
-    <string name="callFailed_limitExceeded">Excedeix el límit ACM</string>
-    <string name="callFailed_noSignal">Sense senyal</string>
-    <string name="callFailed_number_unreachable">Número fora de cobertura</string>
-    <string name="callFailed_outOfService">Àrea fora del de servei</string>
-    <string name="callFailed_out_of_network">Trucada des de fora de la xarxa</string>
-    <string name="callFailed_powerOff">Ràdio apagada</string>
-    <string name="callFailed_server_error">Error del servidor. Proveu-ho de nou més tard.</string>
-    <string name="callFailed_server_unreachable">"No es pot accedir al servidor"</string>
-    <string name="callFailed_simError">Sense SIM o error de SIM</string>
-    <string name="callFailed_timedOut">No hi ha resposta del servidor</string>
-    <string name="callFailed_unobtainable_number">Número no vàlid</string>
-    <string name="callFailed_userBusy">Línia ocupada</string>
     <string name="call_button_conference_manager_text">Gestiona</string>
     <string name="call_button_dialer_text">Teclat</string>
-    <string name="call_button_mute_text">Silenci</string>
     <string name="call_button_tools_text">Característiques</string>
     <string name="call_contacts_deny_permission_msg">"Vau negar el permís de lectura de contactes, no es pot mostrar informació de contactes."</string>
-    <string name="call_description_recording">S\'està enregistrant…</string>
     <string name="call_log_short_in">Aquest número us ha trucat ara mateix</string>
     <string name="call_log_short_out">Heu trucat a aquest número ara mateix</string>
     <string name="call_not_support_high_frequency_click">"No toqueu aquest botó amb tanta freqüència"</string>
@@ -90,7 +68,7 @@ dispositius Bluetooth per poder veure\'ls.</string>
     <string name="call_progress_info_user_busy">Ara l’altra persona està ocupada. Torneu a trucar més tard.</string>
     <string name="call_progress_info_user_call_rejected">El vostre número està fora de servei</string>
     <string name="call_record_wait_label">S\'està esperant</string>
-    <string name="call_recording_deny_permission_msg">"Vau denegar el permís d'enregistrament, no es pot enregistrar."</string>
+    <string name="call_recording_deny_permission_msg">"No es pot gravar. Concediu permisos primer a Configuració."</string>
     <string name="call_recording_error_low_storage">No hi ha prou espai a l\'emmagatzematge.</string>
     <string name="call_recording_error_privacy">"No és pot enregistrar mentre esteu en mode de Convidat"</string>
     <string name="call_recording_error_sd_access">"No es pot accedir a la targeta SD"</string>
@@ -103,7 +81,6 @@ dispositius Bluetooth per poder veure\'ls.</string>
     <string name="call_recording_notification_title">Trucada enregistrada</string>
     <string name="call_recording_notification_title_error">"No s'ha pogut enregistrar la trucada"</string>
     <string name="caller_info_name_delimiter">" o "</string>
-    <string name="caller_manage_header">Trucada de conferència %s</string>
     <string name="camera_on">L\'altra persona vol activar la vostra càmera.</string>
     <string name="camera_on_agree">Permet</string>
     <string name="camera_on_refuse">"No ho permetis"</string>
@@ -119,7 +96,6 @@ dispositius Bluetooth per poder veure\'ls.</string>
     <string name="card_title_in_call_short">A la trucada</string>
     <string name="card_title_in_crbt">S’està esperant la resposta…</string>
     <string name="card_title_in_video">Vídeo </string>
-    <string name="card_title_incoming_conference_call">Conferència telefònica entrant</string>
     <string name="card_title_on_hold">"En espera"</string>
     <string name="card_title_threeway_call">Trucades a 3 bandes</string>
     <string name="card_title_upgrade_video_call_error">"No s'ha pogut actualitzar el vídeo"</string>
@@ -135,6 +111,7 @@ dispositius Bluetooth per poder veure\'ls.</string>
     <string name="close">Tanca</string>
     <string name="close_camera_failed">"No s'ha pogut desactivar la càmera"</string>
     <string name="close_camera_requesting">Desactivant càmera…</string>
+    <string name="cloud_video_conference">Videoconferència al núvol</string>
     <string name="conference_call_description" formatted="false">%s,%s etc. Total %s</string>
     <string name="conference_call_recorder_title">Trucada de conferència</string>
     <string name="conference_call_single_description" formatted="false">%s etc. Total %s</string>
@@ -188,10 +165,13 @@ dispositius Bluetooth per poder veure\'ls.</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="fmt_time_12hour">"h 'en punt'"</string>
     <string name="fmt_time_24hour">"HH 'en punt'"</string>
+    <string name="focus_notification_on_call">Trucant…</string>
+    <string name="focus_notification_on_ringing">Trucada entrant</string>
     <string name="font_camera_tip">Plegueu el dispositiu per utilitzar la càmera frontal</string>
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
+    <string name="high_temperature_toast">"El dispositiu està sobreescalfat. No es pot utilitzar aquesta funció ara."</string>
     <string name="inCallLabel">Telèfon</string>
     <string name="incall_bubble_hangup_click_hint">Torna a tocar per tornar a la trucada</string>
     <string name="incall_call_type_label_sip">Trucada d\'Internet</string>
@@ -211,21 +191,21 @@ dispositius Bluetooth per poder veure\'ls.</string>
     <string name="incoming_circle_text_video_answer">Deixa anar per a respondre amb vídeo</string>
     <string name="incoming_circle_text_video_answer_p">Llisca cap amunt per a respondre amb vídeo</string>
     <string name="incoming_show_permission_msg">"No es poden reproduir vídeos de perfil per a les trucades entrants sense els permisos d’emmagatzematge"</string>
-    <string name="incoming_video_crs_call">S’està reproduint el vídeo de perfil…</string>
     <string name="manageConferenceLabel">Gestiona la trucada de conferència</string>
     <string name="manager_conference_done">Fet</string>
     <string name="midnight">Nit</string>
     <string name="miuix_access_state_desc">Seleccionat</string>
     <string name="miuix_alphabet_indexer_name">Barra d’índex</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Anul·leu la selecció</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarqueu-ho tot</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccioneu elements</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Més</string>
     <string name="miuix_appcompat_cancel_description">Cancel · lar</string>
     <string name="miuix_appcompat_confirm_description">Confirmeu</string>
     <string name="miuix_appcompat_delete_description">Suprimeix</string>
-    <string name="miuix_appcompat_deselect_all">Anul·leu la selecció</string>
+    <string name="miuix_appcompat_deselect_all">Desmarqueu-ho tot</string>
     <string name="miuix_appcompat_deselect_all_description">Desselecciona-ho tot</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel · lar</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
     <string name="miuix_appcompat_select_all">Seleccionar tot</string>
@@ -296,16 +276,15 @@ dispositius Bluetooth per poder veure\'ls.</string>
     <string name="notification_action_speaker">Altaveu</string>
     <string name="notification_dialing">S\'està trucant</string>
     <string name="notification_incoming_call">Trucada entrant</string>
-    <string name="notification_incoming_video_call">Videotrucada entrant</string>
     <string name="notification_on_hold">En espera</string>
     <string name="notification_ongoing_call">Trucada en curs</string>
     <string name="notification_requesting_video_call">Petició de vídeo entrant</string>
     <string name="ok">D\'acord</string>
     <string name="onscreenEndCallText">Finalitza</string>
     <string name="onscreen_add_call_text">Afegeix trucada</string>
-    <string name="onscreen_audio_mode_conference">Conferència</string>
     <string name="onscreen_audio_mode_handset">Auricular</string>
     <string name="onscreen_audio_mode_headset">Auriculars</string>
+    <string name="onscreen_audio_mode_mirror">Pastilla</string>
     <string name="onscreen_audio_mode_speaker">Altaveu</string>
     <string name="onscreen_call_record">Gravar</string>
     <string name="onscreen_change_to_video">Vídeotrucada</string>
@@ -329,27 +308,36 @@ dispositius Bluetooth per poder veure\'ls.</string>
     <string name="picking_participant">S\'està obtenint la informació del contacte…</string>
     <string name="pm">PM</string>
     <string name="private_num">Número privat</string>
-    <string name="prompt_no_volte_when_failed">"No es poden realitzar trucades. Assegureu-vos que el vostre dispositiu està connectat a una xarxa 4G que suporti VoLTE"</string>
     <string name="relay_cal_from_device_name">A partir de %1$s</string>
     <string name="relay_call">Transmissió</string>
     <string name="relay_call_device_name">Dispositiu connectat (%1$s)</string>
-    <string name="relay_deny_permission_msg">"No es poden transferir trucades sense permís per enregistrar àudio"</string>
-    <string name="relay_grant_permissions_on_phone">Doneu permís per enregistrar àudio al vostre telèfon</string>
-    <string name="relay_known">Entesos</string>
-    <string name="relay_network_error">Error de xarxa</string>
-    <string name="relay_network_error_msg">"No es poden rebre trucades en aquest dispositiu a causa d'un error de xarxa. Torneu al telèfon."</string>
+    <string name="relay_call_unable_to_work">"No puc utilitzar aquesta funció per a les trucades transferides"</string>
+    <string name="relay_device_local">Aquest dispositiu</string>
+    <string name="relay_device_type_pc">Ordinador</string>
+    <string name="relay_stop_recorder">La gravació es va aturar</string>
     <string name="remind_unlock_message">El vostre dispositiu està bloquejat ara. \"%s\" estarà disponible després de desbloquejar el dispositiu. Desbloquejar ara?</string>
     <string name="respond_via_sms_custom_message">SMS personalitzat</string>
-    <string name="saf_permission_content">"S'han actualitzat els permisos del sistema. Per poder enregistrar les trucades, primer concediu el permís.
-
-Com atorgar permís
-Toqueu \"%1$s\" i després seleccioneu \"%2$s\"."</string>
-    <string name="saf_permission_grant_permission_immediately">Següent</string>
-    <string name="saf_permission_later">Ara no</string>
-    <string name="saf_permission_recorder_unlock_screen_message">Per poder desar enregistraments, primer desbloquegeu el dispositiu. Voleu desbloquejar-lo ara?</string>
-    <string name="saf_permission_refused">"No es poden enregistrar les trucades perquè falten permisos"</string>
-    <string name="saf_permission_title">Permisos necessaris</string>
-    <string name="saf_permission_use_this_folder">Utilitza aquesta carpeta</string>
+    <string name="satellite_call_failed">Senyal interromput. Prova una altra vegada.</string>
+    <string name="satellite_diable_earpiece">"No es poden utilitzar auriculars amb trucades per satèl·lit"</string>
+    <string name="satellite_dialog_button">Finestra flotant</string>
+    <string name="satellite_dialog_cancel">Cancel·lar</string>
+    <string name="satellite_guide_down">"Inclinar el dispositiu cap avall
+per posar la pilota a l'àrea blava"</string>
+    <string name="satellite_guide_found">Satèl·lit trobat</string>
+    <string name="satellite_guide_left">"Inclinar el dispositiu cap a l'esquerra
+per posar la icona de satèl·lit a l'àrea blava"</string>
+    <string name="satellite_guide_right">"Inclinar el dispositiu cap a la dreta
+per posar la icona de satèl·lit a l'àrea blava"</string>
+    <string name="satellite_guide_searching">A la recerca de satèl·lit…</string>
+    <string name="satellite_guide_searching_floating">Recerca…</string>
+    <string name="satellite_guide_up">"Inclinar el dispositiu cap amunt
+per posar la pilota a l'àrea blava"</string>
+    <string name="satellite_incall_tip">L\'altaveu està activat</string>
+    <string name="satellite_service_provider">Proporcionat per China Telecom</string>
+    <string name="satellite_state">"No moguis el dispositiu"</string>
+    <string name="satellite_state_connected">"Connectat a satèl·lit. No moguis el dispositiu."</string>
+    <string name="satellite_state_connected_floating">"No moguis el dispositiu"</string>
+    <string name="satellite_state_connecting">Connectar… (%ds)</string>
     <string name="saturday">Dissabte</string>
     <string name="saturday_short">Ds.</string>
     <string name="saturday_shortest">ds.</string>
@@ -374,7 +362,6 @@ Toqueu \"%1$s\" i després seleccioneu \"%2$s\"."</string>
     <string name="sunday_short">Dg.</string>
     <string name="sunday_shortest">dg.</string>
     <string name="supp_service_notification_call_waiting">El número que heu marcat està ocupat. Espereu…</string>
-    <string name="suspect_info">Tingueu cura amb la vostra informació personal.</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversari de l\'aixecament de la llei marcial</string>
     <string name="the_anti_aggression_day">Dia contra l’agressió</string>
     <string name="the_arbor_day">Dia de l\'Arbor</string>
@@ -432,7 +419,6 @@ Toqueu \"%1$s\" i després seleccioneu \"%2$s\"."</string>
     <string name="video_crbt_title">S\'està reproduint el vídeo del perfil…</string>
     <string name="voice_control_deny_permission_msg">"No es poden utilitzar els controls de veu ara. Permeteu que aquesta aplicació enregistri àudio primer."</string>
     <string name="voicemail">Bústia de veu</string>
-    <string name="volte_call">Trucada VoLTE</string>
     <string name="volume_boost_text">S\'ha augmentat el volum amb èxit</string>
     <string name="wait_prompt_str">"Voleu enviar els tons següents?
 "</string>
@@ -440,7 +426,6 @@ Toqueu \"%1$s\" i després seleccioneu \"%2$s\"."</string>
     <string name="wednesday">Dimecres</string>
     <string name="wednesday_short">Dc.</string>
     <string name="wednesday_shortest">dc.</string>
-    <string name="wifi_call">Trucada VoWifi</string>
     <string name="xiaoai_assistant">Assistent de trucades Mi IA</string>
     <string name="yesterday">Ahir</string>
 </resources>

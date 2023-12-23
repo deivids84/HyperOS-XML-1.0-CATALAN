@@ -173,6 +173,7 @@
     <string name="ppt_video_install_videoplayer_tip">Instal·leu un reproductor de vídeo</string>
     <string name="ppt_volume_is_too_low_tip">Poseu-vos els auriculars o augmenteu el volum</string>
     <string name="projection_fail">"No s'ha pogut emetre. Comproveu el monitor extern i torneu-ho a provar."</string>
+    <string name="public_2pic">Exportar a la imatge</string>
     <string name="public_amazon_autosave_finished">El document s\'ha desat automàticament</string>
     <string name="public_bad_doc_to_process">"Document no vàlid, no es pot completar l'operació"</string>
     <string name="public_bookmark">Marcador</string>
@@ -193,11 +194,13 @@
     <string name="public_cut">Tallar</string>
     <string name="public_decryptDocument">Desxifra</string>
     <string name="public_displayPasswd">Ensenya la contrasenya</string>
+    <string name="public_display_privacy_policy">Veure Política de privacitat</string>
     <string name="public_doc_end_preview_tip">Desenvolupat per WPS Office</string>
     <string name="public_edit">Edita</string>
     <string name="public_enter_phonemode">Introduïu la visualització per a mòbils</string>
     <string name="public_exit_phonemode">Surt de la visualització mòbil</string>
     <string name="public_exit_play">Surt</string>
+    <string name="public_export_pdf">Exportar a PDF</string>
     <string name="public_fileNotExist">El fitxer ja no existeix. Altres programes poden canviar el nom, moure, esborrar o esborrar el fitxer.</string>
     <string name="public_file_cant_write_tips">"El fitxer no es pot desar al directori actual. Voleu desar-lo a un altre directori com a fitxer nou?"</string>
     <string name="public_file_download">S\'està carregant el fitxer…</string>
@@ -219,6 +222,7 @@
     <string name="public_lite_update_cloud_dialog_message">Actualitzeu WPS Office, gaudiu de %s serveis</string>
     <string name="public_lite_update_right_now">Actualitzar ara</string>
     <string name="public_lite_use_right_now">Feu servir ara</string>
+    <string name="public_loadDocumentError">"El fitxer no existeix o no es pot obrir"</string>
     <string name="public_loadDocumentFormatError">"Error de format de fitxer; no es pot obrir el fitxer."</string>
     <string name="public_loadDocumentLackOfStorageError">"No hi ha prou emmagatzematge, no es pot obrir el fitxer."</string>
     <string name="public_loadDocumentOutOfMemoryError">"No hi ha prou emmagatzematge, no es pot obrir el fitxer."</string>
@@ -239,6 +243,8 @@
     <string name="public_other_app">Obre en una altra aplicació</string>
     <string name="public_outline">Continguts</string>
     <string name="public_paste">Enganxa</string>
+    <string name="public_pdf2word">PDF a Word</string>
+    <string name="public_pdfFillForm">Emplenar formulari</string>
     <string name="public_pdf_converter_item_name">PDF</string>
     <string name="public_pdf_converter_normal">Regular</string>
     <string name="public_pdf_converter_open_tip">Voleu obrir aquest document?</string>
@@ -256,6 +262,8 @@
     <string name="public_permission_storage_disallow_msg">"No podreu treballar amb documents després de revocar l'autorització."</string>
     <string name="public_play">Jugar</string>
     <string name="public_ppt_label">Visor de presentacions Mi</string>
+    <string name="public_privacy_policy">Política de privacitat</string>
+    <string name="public_privacy_update">&lt;Data&gt;Per entendre plenament els seus drets com a usuari, així com la forma en què utilitzem les seves dades, llegeixi i accepti la nova versió de la nostra &lt;a href=\"%s\"&gt;Política de privacitat&lt;/a&gt; abans de continuar.&lt;/Data&gt;</string>
     <string name="public_re_licensing">Atorgar l’autorització</string>
     <string name="public_readOnlyMode">Llegeix només</string>
     <string name="public_recory_edit_not_save_tips">Ja heu recuperat contingut no desat.</string>
@@ -264,6 +272,10 @@
     <string name="public_refuse_jurisdiction">Es requereixen permisos</string>
     <string name="public_replace">Substitueix</string>
     <string name="public_request_senior_password">Introduïu la contrasenya del permís més alt</string>
+    <string name="public_revoke">Retirar%s</string>
+    <string name="public_revoke_privacy_content">"Si continueu, retirareu el vostre consentiment a la Política de privadesa de Mi Doc Viewer (Powered by WPS). Deixarem de recopilar la vostra informació personal i la informació personal ja recopilada i conservada s'eliminarà dins del període específic d'acord amb les lleis i regulacions aplicables, tret que es requereixi el contrari. La seva retirada del consentiment serà vist com una negativa a acceptar els serveis proporcionats per Mi Doc Viewer (Powered by WPS)."</string>
+    <string name="public_revoke_privacy_desc">Retirar el seu consentiment a la Política de Privacitat de Mi Doc Viewer (Powered by WPS)</string>
+    <string name="public_revoke_privacy_title">Retirada del consentiment</string>
     <string name="public_ribbon_font">Font</string>
     <string name="public_save">Desa</string>
     <string name="public_saveAs">Guardar com</string>
@@ -285,6 +297,7 @@
     <string name="public_sensor_ratation_land_tip">Orientació horitzontal</string>
     <string name="public_sensor_ratation_port_tip">Orientació vertical</string>
     <string name="public_service_disable_error_tips">"Aquesta característica no es pot utilitzar ja que el servei relacionat s'ha desactivat."</string>
+    <string name="public_share">Compartir</string>
     <string name="public_share_no_network">"No s'ha pogut connectar a la xarxa"</string>
     <string name="public_share_retry">Torna-ho a provar</string>
     <string name="public_shareplay_connect_fail">Comproveu la vostra connexió de xarxa</string>
@@ -307,6 +320,7 @@
     <string name="public_wpscloud_recovery_edit_not_exist_tips">El document ha estat suprimit per altres aplicacions i ha estat recuperat per WPS Cloud Docs.</string>
     <string name="public_wpscloud_recovery_edit_not_save_tips">"El contingut editat per última vegada no s'ha desat i ha estat recuperat per WPS Cloud Docs."</string>
     <string name="public_wpscloud_recovery_edit_not_saved_and_to_save">Deseu el document de manera segura</string>
+    <string name="public_writer2pic">Exporta a un fitxer només d\'imatge</string>
     <string name="public_writer_label">Visor de text Mi</string>
     <string name="public_writer_ui_delete">Suprimeix</string>
     <string name="reader_ppt_autoplay">reproducció automàtica</string>
