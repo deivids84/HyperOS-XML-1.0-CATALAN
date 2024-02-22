@@ -58,7 +58,7 @@
     <string name="cta_agree_desc">Permeteu que aquesta aplicació es connecti a Internet i concediu els permisos obligatoris indicats anteriorment.</string>
     <string name="cta_btn_agree">D\'acord</string>
     <string name="cta_btn_disagree">"No estic d'acord"</string>
-    <string name="cta_main_purpose">Us donem la benvinguda a l\'Editor de captures de pantalla! Podeu utilitzar aquesta aplicació per retallar i editar les vostres captures de pantalla.</string>
+    <string name="cta_main_purpose"><string name="cta_main_purpose">Benvingut a l\'Editor de captures de pantalla! Podeu utilitzar aquesta aplicació per retallar i editar les vostres captures de pantalla. Aquesta aplicació ha de connectar-se a Internet i accedir als fitxers d\'àudio i vídeo del vostre dispositiu per poder oferir els serveis necessaris.</string></string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Per desar captures de pantalla</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="date_time_picker_dialog_title">Estableix la data i l’hora</string>
@@ -107,6 +107,10 @@
     <string name="image_decode_failed">"No s'ha pogut descodificar la imatge"</string>
     <string name="image_not_found">"No s'ha pogut trobar la imatge"</string>
     <string name="loading_text_format" formatted="false">Eliminant informació privada de les fotos (%d/%d)…</string>
+    <string name="long_screenshot_content_auto">Fent la captura de pantalla…</string>
+    <string name="long_screenshot_content_loading">Només un segon…</string>
+    <string name="long_screenshot_content_manual">Ajusteu manualment el punt final de la captura de pantalla i, a continuació, toqueu \"Fet\".</string>
+    <string name="long_screenshot_done">Fet</string>
     <string name="long_screenshot_error">No s\'ha pogut fer la captura de pantalla. Torneu-ho a provar.</string>
     <string name="long_screenshot_guide_text">"Toqueu per fer
 una captura de pantalla de desplaçament"</string>
@@ -115,6 +119,7 @@ una captura de pantalla de desplaçament"</string>
     <string name="long_screenshot_processing">S\'està processant…</string>
     <string name="long_screenshot_processing_description_accessibility">Tramitació</string>
     <string name="long_screenshot_stop">Fet</string>
+    <string name="long_screenshot_title">Captura de pantalla de desplaçament</string>
     <string name="long_screenshot_top_msg">Creant captura de pantalla…</string>
     <string name="long_screenshot_top_msg_description_accessibility">S\'està creant una captura de pantalla</string>
     <string name="long_screenshot_top_msg_manual">Retalla la captura de pantalla i prem el botó per acabar</string>
@@ -274,6 +279,7 @@ una captura de pantalla de desplaçament"</string>
     <string name="screenshot_long_screenshot">Desplaça</string>
     <string name="screenshot_save">Desa</string>
     <string name="screenshot_send">Envia</string>
+    <string name="screenshot_succeed">S\'ha fet la captura de pantalla correctament</string>
     <string name="screenshot_thumbnail">Miniatura de la captura de pantalla</string>
     <string name="scroll_annotation">Desplaceu-vos i anoteu</string>
     <string name="scroll_annotation_btn_quit">Anotacions de sortida</string>
@@ -290,27 +296,6 @@ una captura de pantalla de desplaçament"</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
     <string name="size_tera_byte">TB</string>
-    <string name="solar_term_cold_dews">Rosades fredes</string>
-    <string name="solar_term_grain_buds">Criatures plenes</string>
-    <string name="solar_term_grain_in_ear">Sembra de mill</string>
-    <string name="solar_term_grain_rain">Pluja de blat</string>
-    <string name="solar_term_great_cold">Fred intens</string>
-    <string name="solar_term_great_heat">Gran calor</string>
-    <string name="solar_term_heavy_snow">Fortes nevades</string>
-    <string name="solar_term_hoar_frost_falls">Glaçada</string>
-    <string name="solar_term_insects_awaken">Els insectes es desperten</string>
-    <string name="solar_term_light_snow">Nevada feble</string>
-    <string name="solar_term_slight_cold">Fred moderat</string>
-    <string name="solar_term_slight_heat">Calor moderada</string>
-    <string name="solar_term_spring_begins">Comença la primavera</string>
-    <string name="solar_term_stopping_the_heat">La retirada de la calor</string>
-    <string name="solar_term_summer_begins">Comença l\'estiu</string>
-    <string name="solar_term_summer_solstice">Solstici d\'estiu</string>
-    <string name="solar_term_the_rains">Pluges de primavera</string>
-    <string name="solar_term_vernal_equinox">Equinocci de primavera</string>
-    <string name="solar_term_white_dews">Rosades</string>
-    <string name="solar_term_winter_begins">Comença l\'hivern</string>
-    <string name="solar_term_winter_solstice">Solstici d\'hivern</string>
     <string name="sunday">Diumenge</string>
     <string name="sunday_short">Dg.</string>
     <string name="sunday_shortest">dg.</string>
@@ -342,7 +327,6 @@ una captura de pantalla de desplaçament"</string>
     <string name="the_armed_forces_day">Dia de les Forces Armades</string>
     <string name="the_armys_day">Dia de l\'Exèrcit Popular d\'Alliberament</string>
     <string name="the_childrens_day">"Dia de la Infància"</string>
-    <string name="the_chinese_youth_day">Dia de la Joventut</string>
     <string name="the_christmas_day">Nadal</string>
     <string name="the_double_ninth_festival">Festa del Doble Yang</string>
     <string name="the_dragon_boat_festival">Festa de les Barques de Drac</string>

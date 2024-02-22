@@ -5,16 +5,16 @@
         <item quantity="other">Fa 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Fa 1 hora</item>
-        <item quantity="other">Fa 1 hora</item>
+        <item quantity="one">fa %d hores</item>
+        <item quantity="other">fa %d hores</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
         <item quantity="other">Fa mitja hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">D\'aquí a 1 hora</item>
-        <item quantity="other">D\'aquí a 1 hora</item>
+        <item quantity="one">En %d hora</item>
+        <item quantity="other">En %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">D\'aquí a mitja hora</item>
@@ -25,16 +25,16 @@
         <item quantity="other">Immediatament</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">d\'aquí a %d minuts</item>
-        <item quantity="one">d\'aquí a 1 min</item>
+        <item quantity="other">En %d minuts</item>
+        <item quantity="one">En %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ara</item>
         <item quantity="other">Ara</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Fa %d minuts</item>
-        <item quantity="one">Fa 1 minut</item>
+        <item quantity="other">fa %d minuts</item>
+        <item quantity="one">fa %d min</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
@@ -63,6 +63,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elements seleccionats</item>
         <item quantity="one">%d element seleccionat</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d Noves notificacions</item>
+        <item quantity="one">%d Nova notificació</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">fa %d minuts</item>
@@ -191,6 +195,10 @@
     <plurals name="pa_express_widget_list_left_panel_subtitle_sign">
         <item quantity="other">%d paquets lliurats</item>
         <item quantity="one">%d paquet lliurat</item>
+    </plurals>
+    <plurals name="pa_picker_detail_suit_price_suffix">
+        <item quantity="other">%s Monedes Mi</item>
+        <item quantity="one">%s La meva moneda</item>
     </plurals>
     <plurals name="pa_shopping_page_product_delete_dialog_message">
         <item quantity="other">Voleu suprimir %d elements seleccionats ara?</item>

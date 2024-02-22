@@ -80,7 +80,6 @@ MM/dd"</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
@@ -92,9 +91,6 @@ MM/dd"</string>
     <string name="friday_shortest">dv.</string>
     <string name="gallery_page_name">Des de la Galeria</string>
     <string name="has_add_contact">Afegit</string>
-    <string name="hello_blank2_fragment">Hola fragment en blanc2</string>
-    <string name="hello_blank_fragment">Hola fragment en blanc</string>
-    <string name="hello_world">Hola Square World!</string>
     <string name="icon_content_description">Icona del quadre de diàleg</string>
     <string name="item_view_role_description">Pestanya</string>
     <string name="letter_space">Espai entre caràcters</string>
@@ -194,7 +190,6 @@ MM/dd"</string>
     <string name="mtrl_picker_out_of_range">La data està fora de l\'interval: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Data d\'inici - %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s - data de finalització</string>
-    <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
     <string name="mtrl_picker_range_header_title">Selecciona un interval</string>
     <string name="mtrl_picker_range_header_unselected">Data d\'inici - data de finalització</string>
     <string name="mtrl_picker_save">Desa</string>
@@ -208,7 +203,7 @@ MM/dd"</string>
     <string name="mtrl_picker_toggle_to_day_selection">Toca per canviar a la selecció del dia</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Canvia al mode d\'introducció de text</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toca per canviar a la selecció de l\'any</string>
-    <string name="music_null">Sense reproducció</string>
+    <string name="music_null">No jugar</string>
     <string name="night">Vespre</string>
     <string name="noon">Migdia</string>
     <string name="not_add_contact">No afegit</string>
@@ -229,10 +224,10 @@ MM/dd"</string>
     <string name="saturday_shortest">ds.</string>
     <string name="search_menu_title">Cerca</string>
     <string name="send">Envia</string>
-    <string name="service_name">MiplayAudio</string>
     <string name="small_display_style">Pantalla posterior</string>
     <string name="sps_cancel">Manteniu premut per sortir</string>
-    <string name="step_to_image_community">Trobeu més a Comunitat Mi</string>
+    <string name="step_to_image_community">Trobeu més informació a Comunitat Xiaomi</string>
+    <string name="subscreen_brightness">Brillantor</string>
     <string name="subscreen_could_edit_pic">Arrossegueu les imatges per escalar-les, manteniu-les premudes per suprimir-les</string>
     <string name="subscreen_other">Altres</string>
     <string name="subscreen_other_dialog_cancel">Cancel·la</string>
@@ -268,7 +263,6 @@ MM/dd"</string>
     <string name="the_armed_forces_day">Dia de les Forces Armades</string>
     <string name="the_armys_day">Dia PLA</string>
     <string name="the_childrens_day">"Dia dels Nens"</string>
-    <string name="the_chinese_youth_day">Dia de la Joventut</string>
     <string name="the_christmas_day">Nadal</string>
     <string name="the_double_ninth_festival">Festival del doble novè</string>
     <string name="the_dragon_boat_festival">Festival de la barca drac</string>

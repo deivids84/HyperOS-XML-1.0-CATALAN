@@ -123,6 +123,7 @@
     <string name="app_permission_use_group_storage_desc">Per trobar i reproduir cançons desades al dispositiu</string>
     <string name="app_resident_push_switch">Permetre les notificacions permanents</string>
     <string name="app_third_privacy">Polítiques de privadesa de tercers</string>
+    <string name="apply_for_the_following_permissions">Aquesta aplicació sol·licita els permisos següents:</string>
     <string name="apply_permissions_greater_than_pie">Podeu concedir aquest permís a Configuració &gt; Apps &gt; Permisos &gt; Permisos &gt; Arxius i suports &gt; Música.</string>
     <string name="apply_permissions_greater_than_tiramisu">Podeu concedir aquest permís a Configuració &gt; Apps &gt; Permisos &gt; Música i àudio/Fotos i vídeos &gt; Música.</string>
     <string name="apply_permissions_less_than_pie">Podeu concedir aquest permís a Configuració &gt; Apps &gt; Permisos &gt; Permisos &gt; Accedir i canviar fitxers a l\'emmagatzematge intern &gt; Música.</string>
@@ -695,6 +696,7 @@
     <string name="loading_hint">Un moment…</string>
     <string name="loading_reached_the_bottom">"Això és tot per ara."</string>
     <string name="loading_text">Un moment…</string>
+    <string name="local_ad_title">Promoció</string>
     <string name="local_download_download">Descarregar</string>
     <string name="local_download_hint">Activar la Wi-Fi abans de baixar-la</string>
     <string name="local_download_item">Descàrrega gratuïta</string>
@@ -909,6 +911,9 @@
     <string name="my_playlist_create_self_playlist">Creeu llistes de reproducció amb les vostres cançons preferides</string>
     <string name="my_playlist_set_to_private">Feu privat</string>
     <string name="my_playlist_set_to_public">Feu públic</string>
+    <string name="native_body">Cos</string>
+    <string name="native_headline">Titular</string>
+    <string name="native_media_view">Vista multimèdia</string>
     <string name="nav_app_bar_navigate_up_description">Navegueu cap amunt</string>
     <string name="nav_app_bar_open_drawer_description">Obriu el calaix de navegació</string>
     <string name="need_to_close">Mostra\'n menys</string>
@@ -957,6 +962,9 @@
     <string name="notification_recommend_summary">Apreneu sobre les noves tendències musicals i les promocions d\'aplicacions</string>
     <string name="notification_recommend_title">Notifications importants</string>
     <string name="notification_setting">Configuració de notificacions</string>
+    <string name="notifications_permission_confirm">Permetre</string>
+    <string name="notifications_permission_decline">"No permetre"</string>
+    <string name="notifications_permission_title">Permeteu que l\'aplicació us enviï notificacions?</string>
     <string name="nowplaying_circle_style">Estil del botó de reproducció</string>
     <string name="nowplaying_circle_style_rainbow">Arc de Sant Martí</string>
     <string name="nowplaying_circle_style_wave">Ona</string>
@@ -1236,7 +1244,6 @@
     <string name="privacy_authorize_revoking">S\'està revocant l\'autorització…</string>
     <string name="privacy_desc">Polítiques de privadesa (obligatori)</string>
     <string name="privacy_policy">Política de privadesa</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=ca_ES</string>
     <string name="privacy_request_desc">&lt;Data&gt;Mi Música necessita recopilar la informació personal necessària per proporcionar-vos serveis de transmissió en línia. Podeu obtenir informació sobre com gestionem la informació que recopilem a la nostra &lt;a href=\"%1$s\"&gt;Política de privadesa&lt;/a&gt;. Podeu retirar el vostre consentiment a la Política de privadesa de Mi Música a la configuració en qualsevol moment
 Llegiu i accepteu el nostre &lt;a href=\"%2$s\"&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=\"%1$s\"&gt;Política de privades &lt;/a&gt; abans d\'utilitzar Mi Música.
 Si no accepteu utilitzar els serveis esmentats, no podreu utilitzar algunes funcions d\'aquesta aplicació; tanmateix, la seva funcionalitat bàsica encara estarà disponible.&lt;/Data&gt;</string>
@@ -1382,6 +1389,32 @@ Sigues Feliç"</string>
     <string name="sleep_mode_summary">Atura el reproductor passat un determinat temps</string>
     <string name="sleep_mode_title">Temporitzador de suspensió</string>
     <string name="sliding_pro_center">Hungama Or</string>
+    <string name="snow_ui_band_chart_hint">No inicialitzat</string>
+    <string name="snow_ui_button_save">Desa</string>
+    <string name="snow_ui_croller_bass">Baix</string>
+    <string name="snow_ui_croller_virtualizer">Àudio immersiu</string>
+    <string name="snow_ui_des_back">esquena</string>
+    <string name="snow_ui_des_drop_down">Seleccioneu</string>
+    <string name="snow_ui_equalizer_des">Posa\'t els auriculars abans d\'ajustar els efectes de so</string>
+    <string name="snow_ui_equalizer_launched">Fes una ullada al nou equalitzador!</string>
+    <string name="snow_ui_equalizer_local">Equalitzador</string>
+    <string name="snow_ui_equalizer_preset_classical">Clàssic</string>
+    <string name="snow_ui_equalizer_preset_custom">Personalitzat</string>
+    <string name="snow_ui_equalizer_preset_dance">Dansa</string>
+    <string name="snow_ui_equalizer_preset_flat">Pis</string>
+    <string name="snow_ui_equalizer_preset_folk">Folk</string>
+    <string name="snow_ui_equalizer_preset_heavy_metal">Metall pesat</string>
+    <string name="snow_ui_equalizer_preset_hip_hop">Hip-hop</string>
+    <string name="snow_ui_equalizer_preset_jazz">Jazz</string>
+    <string name="snow_ui_equalizer_preset_normal">Regular</string>
+    <string name="snow_ui_equalizer_preset_pop">Pop</string>
+    <string name="snow_ui_equalizer_preset_rock">Roca</string>
+    <string name="snow_ui_recommended_sound_effects">Preajustos recomanats</string>
+    <string name="snow_ui_resetting">Restableix</string>
+    <string name="snow_ui_sound_effect_adjustment">Ajust manual</string>
+    <string name="snow_ui_sound_enhancement">Millora el so</string>
+    <string name="snow_ui_title_equalizer">Equalitzador</string>
+    <string name="snow_ui_toast_equalizer_not_enabled">L\'equalitzador està apagat</string>
     <string name="song_already_in_playlist">Aquesta cançó ja és a la llista de reproducció</string>
     <string name="song_exist_in_playlist">Aquesta cançó ja és a la llista de reproducció</string>
     <string name="song_info">Detalls de la cançó</string>
@@ -1457,7 +1490,6 @@ Sigues Feliç"</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversari de l\'aixecament de la llei marcial</string>
     <string name="the_arbor_day">Dia de l\'arbre</string>
     <string name="the_armed_forces_day">Dia de les forces armades</string>
-    <string name="the_chinese_youth_day">Dia de la joventut</string>
     <string name="the_double_ninth_festival">Festa del Doble Yang</string>
     <string name="the_dragon_boat_festival">Festa de les Barques de Drac</string>
     <string name="the_easter_day">Pasqua</string>
@@ -1513,6 +1545,7 @@ Sigues Feliç"</string>
     <string name="toast_will_play_list_when_ad_pause">La llista començarà a reproduir-se després dels anuncis</string>
     <string name="toast_will_play_song_when_ad_pause">Aquesta cançó començarà a reproduir-se després dels anuncis</string>
     <string name="today">Avui</string>
+    <string name="today_hot_playlist">"La millor llista de reproducció d'avui"</string>
     <string name="tomorrow">Demà</string>
     <string name="top_chart_title">Gràfics</string>
     <string name="track_play_history_after_login">Inicia sessió per a veure l\'historial de reproducció</string>
@@ -1685,7 +1718,6 @@ Sigues Feliç"</string>
     <string name="upload_playlist_to_hungama_negative_text">"No sincronitzis"</string>
     <string name="upload_playlist_to_hungama_positive_text">Sincronitza</string>
     <string name="user_agreement">Acord d\'usuari</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=ca_ES</string>
     <string name="user_experience_program_open">A causa de les restriccions de drets d\'autor, cal inscriure\'s al Programa d\'experiència d\'usuari per poder reproduir les cançons baixades. Podeu fer-ho a Configuració &gt; Contrasenyes i seguretat &gt; Privadesa &gt; Inscriure\'s al programa d\'experiència d\'usuari.</string>
     <string name="user_playlist_plaza">Llistes de reproducció</string>
     <string name="user_privacy_dialog_negative_text">Cancel·leu</string>
@@ -1699,15 +1731,23 @@ Sigues Feliç"</string>
     <string name="v7_preference_off">DESACTIVAT</string>
     <string name="v7_preference_on">ACTIVAT</string>
     <string name="version_info">Versió</string>
+    <string name="video_dislike">Desagradar</string>
+    <string name="video_dislike_toast">"Recomanarem menys d'aquest tipus de contingut"</string>
     <string name="video_loading_fail">"No s'ha pogut carregar el vídeo"</string>
     <string name="video_play_cellular">"El vostre dispositiu no està connectat a Wi-Fi. Voleu utilitzar les dades mòbils?"</string>
     <string name="video_replay_btn">Reprodueix de nou</string>
+    <string name="video_report">Informe</string>
+    <string name="video_report_reason_one">Nuesa o contingut sexual</string>
+    <string name="video_report_reason_three">Violència física o amenaces</string>
+    <string name="video_report_reason_two">Delinqüència violenta</string>
+    <string name="video_report_toast">Gràcies pels teus comentaris</string>
     <string name="video_retry_btn">Proveu de nou</string>
     <string name="view_album">Veure àlbum</string>
     <string name="vip_required">Obteniu el paquet de cançons prèmium per reproduir aquesta cançó. L\'hem omès per vós.</string>
     <string name="vip_required_with_song">%s només està disponible per a membres Gold. S\'ha saltat aquesta cançó per ara.</string>
     <string name="voice_search_first_hint">Proveu la cerca per veu!</string>
     <string name="watch_video">Veure vídeo</string>
+    <string name="watermark_label_prefix">"AdMob - "</string>
     <string name="web_reward_dialog_cancle">Cancel·lar</string>
     <string name="web_reward_dialog_ok">Sortida</string>
     <string name="wednesday">Dimecres</string>

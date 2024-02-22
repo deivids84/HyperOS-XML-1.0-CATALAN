@@ -16,10 +16,6 @@
     <item>Aries</item>
     <item>21/3 - 19/4</item>
   </string-array>
-  <string-array name="bundesliga">
-    <item>2</item>
-    <item>Bundesliga</item>
-  </string-array>
   <string-array name="cancer_info">
     <item>cancer</item>
     <item>Càncer</item>
@@ -34,42 +30,13 @@
     <item>Només aquest esdeveniment</item>
     <item>Tots els esdeveniments de la sèrie</item>
   </string-array>
+  <string-array name="close_alarm_repeating_labels">
+    <item>Desactiva\'l una vegada</item>
+    <item>Sempre apagat</item>
+  </string-array>
   <string-array name="date_calculate_spinner">
     <item>Endavant</item>
     <item>Endarrera</item>
-  </string-array>
-  <string-array name="dates">
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-    <item>5</item>
-    <item>6</item>
-    <item>7</item>
-    <item>8</item>
-    <item>9</item>
-    <item>10</item>
-    <item>11</item>
-    <item>12</item>
-    <item>13</item>
-    <item>14</item>
-    <item>15</item>
-    <item>16</item>
-    <item>17</item>
-    <item>18</item>
-    <item>19</item>
-    <item>20</item>
-    <item>21</item>
-    <item>22</item>
-    <item>23</item>
-    <item>24</item>
-    <item>25</item>
-    <item>26</item>
-    <item>27</item>
-    <item>28</item>
-    <item>29</item>
-    <item>30</item>
-    <item>31</item>
   </string-array>
   <string-array name="default_reminder_labels">
     <item>A l\'hora de l\'esdeveniment</item>
@@ -106,10 +73,6 @@
     <item>Dhul-Qadah</item>
     <item>Dhu-l-hijja</item>
   </string-array>
-  <string-array name="la_liga">
-    <item>3</item>
-    <item>La Lliga</item>
-  </string-array>
   <string-array name="leo_info">
     <item>leo</item>
     <item>Lleó</item>
@@ -120,9 +83,9 @@
     <item>Balança</item>
     <item>23/9 - 23/10</item>
   </string-array>
-  <string-array name="ligue_1">
-    <item>5</item>
-    <item>Lliga 1</item>
+  <string-array name="open_alarm_repeating_labels">
+    <item>Activar una vegada</item>
+    <item>Sempre activat</item>
   </string-array>
   <string-array name="panchang_weeks">
     <item>Diumenge</item>
@@ -140,8 +103,8 @@
   </string-array>
   <string-array name="prefEntries_alerts_popup_new">
     <item>Desactivat</item>
-    <item>En qualsevol cas</item>
-    <item>Pels esdeveniments temporals</item>
+    <item>Per a tots els esdeveniments</item>
+    <item>Per a esdeveniments sensibles al temps</item>
   </string-array>
   <string-array name="prefEntries_alerts_vibrateWhen">
     <item>Sempre</item>
@@ -268,12 +231,12 @@
     <item>quart dissabte</item>
     <item>quart diumenge</item>
     <item>dilluns passat</item>
-    <item>l’últim dimarts</item>
-    <item>l’últim dimecres</item>
-    <item>l\'últim dijous</item>
+    <item>dimarts passat</item>
+    <item>dimecres passat</item>
+    <item>dijous passat</item>
     <item>divendres passat</item>
-    <item>l\'últim dissabte</item>
-    <item>últim diumenge</item>
+    <item>el passat dissabte</item>
+    <item>diumenge passat</item>
   </string-array>
   <string-array name="response_labels1">
     <item>Sense resposta</item>
@@ -290,10 +253,6 @@
     <item>scorpio</item>
     <item>Escorpí</item>
     <item>24/10 - 22/11</item>
-  </string-array>
-  <string-array name="serie_a">
-    <item>1</item>
-    <item>Sèrie A</item>
   </string-array>
   <string-array name="taurus_info">
     <item>taurus</item>
@@ -388,13 +347,6 @@
     <item>Illes Fiji</item>
     <item>Tonga</item>
   </string-array>
-  <string-array name="travel_reminder_minutes_labels">
-    <item>3 hores abans</item>
-    <item>4 hores abans</item>
-    <item>5 hores abans</item>
-    <item>6 hores abans</item>
-    <item>1 dia abans</item>
-  </string-array>
   <string-array name="vikrami_samvat_month_names">
     <item>Chaitra</item>
     <item>Vaishākha</item>
@@ -415,7 +367,7 @@
     <item>23/8 - 22/9</item>
   </string-array>
   <string-array name="weather_forecasts">
-    <item>Clar</item>
+    <item>Serè</item>
     <item>Nuvolós</item>
     <item>Cobert</item>
     <item>Boira</item>
