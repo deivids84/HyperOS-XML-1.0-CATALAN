@@ -1531,6 +1531,7 @@ Només utilitzarem aquest permís per trobar els vídeos que cerqueu i no accedi
     <string name="sending">S\'està enviant…</string>
     <string name="service_error">Error del servidor</string>
     <string name="set_success">S\'ha canviat amb èxit</string>
+    <string name="setting_privacy_title">Termes i condicions</string>
     <string name="settings_inline_auto_play">Reproducció automàtica sempre</string>
     <string name="settings_inline_auto_play_close">Reproducció automàtica</string>
     <string name="settings_inline_auto_play_tip_close_forever">Sempre apagat</string>
