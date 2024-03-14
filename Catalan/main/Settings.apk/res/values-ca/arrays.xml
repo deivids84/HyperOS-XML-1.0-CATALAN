@@ -17,16 +17,16 @@
         <item>Totes les xarxes</item>
     </string-array>
     <string-array name="agps_reset_type_entries">
-        <item>HOT</item>
-        <item>WARM</item>
-        <item>COLD</item>
+        <item>CALENT</item>
+        <item>CÀLID</item>
+        <item>FRED</item>
     </string-array>
     <string-array name="ai_key_item_name">
         <item>Parla amb l\'Assistent de Google</item>
         <item>Obre la cerca de Google</item>
         <item>Obre la càmera posterior</item>
         <item>Obre la càmera frontal</item>
-        <item>Obre l\'aplicació previa</item>
+        <item>Obre l\'aplicació anterior</item>
         <item>Encén la llanterna</item>
         <item>Activa el Mode lectura</item>
         <item>Cap</item>
@@ -39,15 +39,15 @@
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Cada dia</item>
-        <item>Entre setmana</item>
+        <item>Nits d\'entre setmana</item>
         <item>Cap de setmana</item>
         <item>Personalitzat</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Animació desactivada</item>
-        <item>Escala d\'animació .5x</item>
+        <item>Escala d\'animació 0,5x</item>
         <item>Escala d\'animació 1x</item>
-        <item>Escala d\'animació 1.5x</item>
+        <item>Escala d\'animació 1,5x</item>
         <item>Escala d\'animació 2x</item>
         <item>Escala d\'animació 5x</item>
         <item>Escala d\'animació 10x</item>
@@ -66,65 +66,65 @@
         <item>Ubicació</item>
         <item>Ubicació</item>
         <item>Ubicació</item>
-        <item>Vibració</item>
-        <item>Lectura de contactes</item>
-        <item>Modifica els contactes</item>
-        <item>Llegeix el registre de trucades</item>
-        <item>Modifica el registre de trucades</item>
-        <item>Lectura del calendari</item>
-        <item>Modifica el calendari</item>
+        <item>Vibrar</item>
+        <item>Llegir els contactes</item>
+        <item>Modificar els contactes</item>
+        <item>Llegir el registre de trucades</item>
+        <item>Modificar el registre de trucades</item>
+        <item>Llegir el calendari</item>
+        <item>Modificar el calendari</item>
         <item>Ubicació</item>
-        <item>Notificació de la publicació</item>
+        <item>Publicar una notificació</item>
         <item>Ubicació</item>
-        <item>Trucada</item>
-        <item>Llegeix SMS/MMS</item>
-        <item>Escriu SMS/MMS</item>
-        <item>Rep SMS/MMS</item>
-        <item>Rep SMS/MMS</item>
-        <item>Rep SMS/MMS</item>
-        <item>Rep SMS/MMS</item>
-        <item>Envia SMS/MMS</item>
-        <item>Llegeix SMS/MMS</item>
-        <item>Escriu SMS/MMS</item>
-        <item>Modifica la configuració</item>
-        <item>Dibuixa a sobre</item>
-        <item>Accedeix a les notificacions</item>
+        <item>Trucada telefònica</item>
+        <item>Llegir SMS/MMS</item>
+        <item>Escriure SMS/MMS</item>
+        <item>Rebre SMS/MMS</item>
+        <item>Rebre SMS/MMS</item>
+        <item>Rebre SMS/MMS</item>
+        <item>Rebre SMS/MMS</item>
+        <item>Enviar SMS/MMS</item>
+        <item>Llegir SMS/MMS</item>
+        <item>Escriure SMS/MMS</item>
+        <item>Modificar la configuració</item>
+        <item>Dibuixar a sobre</item>
+        <item>Accés a les notificacions</item>
         <item>Càmera</item>
-        <item>Grava l\'àudio</item>
-        <item>Reprodueix l\'àudio</item>
-        <item>Llegeix el porta-retalls</item>
-        <item>Modifica el porta-retalls</item>
-        <item>Botons de multimèdia</item>
-        <item>Enfocament de l\'àudio</item>
+        <item>Gravar àudio</item>
+        <item>Reproduir àudio</item>
+        <item>Llegir el porta-retalls</item>
+        <item>Modificar el porta-retalls</item>
+        <item>Botons multimèdia</item>
+        <item>Enfocament d\'àudio</item>
         <item>Volum general</item>
         <item>Volum de la veu</item>
         <item>Volum del to</item>
         <item>Volum de multimèdia</item>
-        <item>Volum d\'alarma</item>
-        <item>Volum de notificació</item>
+        <item>Volum de l\'alarma</item>
+        <item>Volum de les notificacions</item>
         <item>Volum del Bluetooth</item>
-        <item>Mantén actiu</item>
+        <item>Mantenir actiu</item>
         <item>Ubicació</item>
         <item>Ubicació</item>
         <item>Obtenir estadístiques d\'ús</item>
-        <item>Silencia / deixa de silenciar el micròfon</item>
-        <item>Mostrar l\'avís</item>
-        <item>Projectar fitxers multimèdia</item>
-        <item>Activar la VPN</item>
-        <item>Fons de pantalla d\'escriptura</item>
-        <item>Estructura d\'assistència</item>
-        <item>Captura de pantalla d\'assistència</item>
-        <item>Consultar l\'estat del telèfon</item>
-        <item>Afegir missatges de veu</item>
-        <item>Utilitzar el protocol SIP</item>
-        <item>Processar les trucades sortints</item>
-        <item>Empremta digital</item>
+        <item>Silenciar/activar el micròfon</item>
+        <item>Mostrar notificació emergent</item>
+        <item>Projectar contingut multimèdia</item>
+        <item>Activar VPN</item>
+        <item>Editar fons de pantalla</item>
+        <item>Assistir a l\'estructura</item>
+        <item>Assistir a la captura de pantalla</item>
+        <item>Llegir l\'estat del telèfon</item>
+        <item>Afegir bústia de veu</item>
+        <item>Utilitzar SIP</item>
+        <item>Processar la trucada sortint</item>
+        <item>Empremta</item>
         <item>Sensors corporals</item>
-        <item>Consultar les difusions mòbils</item>
+        <item>Llegir emissions de cèl·lules</item>
         <item>Ubicació simulada</item>
-        <item>Consultar l\'emmagatzematge</item>
-        <item>Fer canvis a l\'emmagatzematge</item>
-        <item>Activar la pantalla</item>
+        <item>Llegir l\'emmagatzematge</item>
+        <item>Escriure a l\'emmagatzematge</item>
+        <item>Encendre la pantalla</item>
         <item>Obtenir comptes</item>
         <item>Executar en segon pla</item>
         <item>Volum d\'accessibilitat</item>
@@ -133,57 +133,57 @@
         <item>ubicació aproximada</item>
         <item>ubicació precisa</item>
         <item>GPS</item>
-        <item>vibració</item>
-        <item>lectura de contactes</item>
-        <item>modifica els contactes</item>
-        <item>llegeix el registre de trucades</item>
-        <item>modifica el registre de trucades</item>
-        <item>lectura del calendari</item>
-        <item>modifica el calendari</item>
+        <item>vibrar</item>
+        <item>llegir els contactes</item>
+        <item>modificar els contactes</item>
+        <item>llegir el registre de trucades</item>
+        <item>modificar el registre de trucades</item>
+        <item>llegir el calendari</item>
+        <item>modificar el calendari</item>
         <item>exploració de Wi-Fi</item>
         <item>notificació</item>
         <item>exploració de cel·la</item>
-        <item>trucada</item>
-        <item>llegeix SMS</item>
-        <item>escriu SMS</item>
-        <item>rep SMS</item>
-        <item>rep SMS d\'emergència</item>
-        <item>rep MMS</item>
-        <item>rep insercions WAP</item>
-        <item>envia SMS</item>
-        <item>llegeix SMS ICC</item>
-        <item>escriu SMS ICC</item>
-        <item>modifica la configuració</item>
-        <item>dibuixa a sobre</item>
-        <item>accedeix a les notificacions</item>
+        <item>trucada telefònica</item>
+        <item>llegir SMS</item>
+        <item>escriure SMS</item>
+        <item>rebre SMS</item>
+        <item>rebre SMS d\'emergència</item>
+        <item>rebre MMS</item>
+        <item>rebre WAP</item>
+        <item>enviar SMS</item>
+        <item>llegir SMS ICC</item>
+        <item>escriure SMS ICC</item>
+        <item>modificar la configuració</item>
+        <item>dibuixar a sobre</item>
+        <item>accés a les notificacions</item>
         <item>càmera</item>
-        <item>grava l\'àudio</item>
-        <item>reprodueix l\'àudio</item>
-        <item>llegeix el porta-retalls</item>
-        <item>modifica el porta-retalls</item>
+        <item>gravar àudio</item>
+        <item>reproduir àudio</item>
+        <item>llegir el porta-retalls</item>
+        <item>modificar el porta-retalls</item>
         <item>botons multimèdia</item>
         <item>enfocament de l\'àudio</item>
         <item>volum general</item>
         <item>volum de la veu</item>
         <item>volum del to</item>
         <item>volum de multimèdia</item>
-        <item>volum d\'alarma</item>
-        <item>volum de notificació</item>
+        <item>volum de l\'alarma</item>
+        <item>volum de les notificacions</item>
         <item>volum del Bluetooth</item>
-        <item>mantén actiu</item>
-        <item>supervisa la ubicació</item>
-        <item>fes un seguiment de la precisió de la ubicació</item>
+        <item>mantenir actiu</item>
+        <item>monitorar la ubicació</item>
+        <item>monitorar la ubicació precisa</item>
         <item>obtenir estadístiques d\'ús</item>
-        <item>silencia / deixa de silenciar el micròfon</item>
-        <item>mostrar l\'avís</item>
-        <item>projectar fitxers multimèdia</item>
+        <item>silenciar/activar el micròfon</item>
+        <item>mostrar notificació emergent</item>
+        <item>projectar contingut multimèdia</item>
         <item>activar la VPN</item>
-        <item>fons de pantalla d\'escriptura</item>
-        <item>estructura d\'assistència</item>
-        <item>captura de pantalla d\'assistència</item>
-        <item>consultar l\'estat del telèfon</item>
-        <item>afegir missatges de veu</item>
-        <item>utilitzar el protocol SIP</item>
+        <item>editar fons de pantalla</item>
+        <item>assistir a l\'estructura</item>
+        <item>assistir a la captura de pantalla</item>
+        <item>llegir l\'estat del telèfon</item>
+        <item>afegir bústia de veu</item>
+        <item>utilitzar SIP</item>
         <item>processar les trucades sortints</item>
         <item>empremta digital</item>
         <item>sensors corporals</item>
