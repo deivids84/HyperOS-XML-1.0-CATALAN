@@ -797,6 +797,7 @@
     <string name="safe_space_tip_dialog_description">"%1$s Xiaomi no ha provat problemes de seguretat. Per protegir-te de possibles riscos, s'han pres les següents mesures:"</string>
     <string name="safe_space_tip_dialog_title">Mesures actives de protecció</string>
     <string name="safe_version_install">Versió segura</string>
+    <string name="safety_hint_bundled_download_content">\"%1$s\" forma part d\'una descàrrega agrupada, es proporciona l\'aplicació real que cal instal·lar. Si encara voleu instal·lar %1$s, toqueu aquí.</string>
     <string name="saturday">Dissabte</string>
     <string name="saturday_short">Ds.</string>
     <string name="saturday_shortest">ds.</string>

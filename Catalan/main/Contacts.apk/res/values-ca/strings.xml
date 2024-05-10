@@ -620,9 +620,8 @@ Motiu: \"%s\""</string>
     <string name="groups_list_empty">No hi ha grups</string>
     <string name="hide_app_description_content">"Contactes és una aplicació del sistema. El podreu fer servir mitjançant l'aplicació Telèfon després d'eliminar la drecera de la Pantalla d'inici."</string>
     <string name="hide_app_description_title">Voleu suprimir \"Contactes\" de la Pantalla d\'inici?</string>
-    <string name="hint_distance">Mantingueu els dos dispositius a prop l\'un de l\'altre durant el procés d\'importació per assegurar-vos que es mantinguin connectats.</string>
     <string name="hint_findContacts">Troba contactes</string>
-    <string name="hint_more_contact">Si la importació crea contactes duplicats, utilitzeu la funció \"Combina contactes duplicats\".</string>
+    <string name="hint_more_contact">Combina els contactes duplicats</string>
     <string name="hybrid_check_network">Configuració de la xarxa</string>
     <string name="hybrid_data_error">S\'ha produït un error</string>
     <string name="hybrid_locating_fail">"No s'ha pogut accedir a la seva localització"</string>

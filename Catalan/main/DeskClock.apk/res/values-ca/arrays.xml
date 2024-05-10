@@ -349,6 +349,8 @@
         <item>Tegucigalpa</item>
         <item>Paramaribo</item>
         <item>Quito</item>
+        <item>Tashkent</item>
+        <item>Bishkek</item>
     </string-array>
     <string-array name="countries_names_miui">
         <item>"Costa d'Ivori"</item>
@@ -637,6 +639,8 @@
         <item>Hondures</item>
         <item>Surinam</item>
         <item>Equador</item>
+        <item>Uzbekistan</item>
+        <item>Kyrgyzstan</item>
     </string-array>
     <string-array name="timer_duration">
         <item>Total %1$s</item>

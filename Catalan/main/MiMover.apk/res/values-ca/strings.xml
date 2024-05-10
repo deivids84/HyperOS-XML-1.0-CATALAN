@@ -4,12 +4,14 @@
     <string name="PRD_summary_4">Desactivar la Wi-Fi o canviar les xarxes Wi-Fi durant el procés de transferència pot provocar que el procés de transferència falli.</string>
     <string name="PRD_summary_4_china">Desactivar la Wi-Fi o canviar les xarxes Wi-Fi durant el procés de transferència pot provocar que el procés de transferència falli.</string>
     <string name="PRD_summary_5">Les transferències d\'alta velocitat poden fer que el dispositiu s\'escalfi més del normal. Tingues la seguretat que el dispositiu es refredarà quan finalitzi la transferència.</string>
+    <string name="PRD_summary_6">"Els àlbums, notes i fitxers privats no es poden transferir des del dispositiu antic. Elimineu-los de les carpetes privades abans d'iniciar la transferència."</string>
     <string name="PRD_summary_tablet_1">Durant la transferència, totes les dades d\'aquestes aplicacions (inclosos els historials de xat) es sobreescriuran.</string>
     <string name="PRD_title_1">%1$d. Les dades d\'aplicacions ja existeixen al dispositiu nou per a les aplicacions següents:</string>
     <string name="PRD_title_2">WeChat</string>
     <string name="PRD_title_3">QQ</string>
     <string name="PRD_title_4">%1$d. Utilitzeu el vostre dispositiu amb cura</string>
     <string name="PRD_title_5">%1$d. El vostre dispositiu s\'escalfarà durant la transferència</string>
+    <string name="PRD_title_6">"Els articles privats no es poden transferir"</string>
     <string name="PRD_title_tablet_1">%1$d. Les dades d\'aplicacions ja existeixen al dispositiu nou per a les aplicacions següents:</string>
     <string name="PRD_title_tablet_4">%1$d. Utilitzeu el vostre dispositiu amb cura</string>
     <string name="PRD_title_tablet_5">%1$d. El vostre dispositiu s\'escalfarà durant la transferència</string>
@@ -870,7 +872,7 @@ a l'iPhone"</string>
     <string name="uncollected">No recollits</string>
     <string name="unselected">No seleccionat</string>
     <string name="update_later">Ara no</string>
-    <string name="update_now">Actualitzar ara</string>
+    <string name="update_now">Instal·lar</string>
     <string name="use_purpose">Finalitat d\'ús</string>
     <string name="use_purpose_description">"Per connectar-se al punt d'accés Wi-Fi del nou dispositiu"</string>
     <string name="use_scene">Escenari d\'ús</string>

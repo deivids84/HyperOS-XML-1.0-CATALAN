@@ -799,6 +799,8 @@ Afegiu widgets per començar."</string>
     <string name="pa_world_cup_widget_request_retry">Prova una altra vegada</string>
     <string name="pa_world_cup_widget_reserve_success_toast">"Rebràs un recordatori abans que comenci el partit"</string>
     <string name="pa_world_cup_widget_title">Copa del Món de Futbol</string>
+    <string name="passport_oauth_actionbar_title">El meu compte</string>
+    <string name="passport_oauth_sucess_tip">Èxit autoritzat</string>
     <string name="password_toggle_content_description">Mostra la contrasenya</string>
     <string name="pm">pm</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>

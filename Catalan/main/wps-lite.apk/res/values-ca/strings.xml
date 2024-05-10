@@ -174,6 +174,7 @@
     <string name="ppt_volume_is_too_low_tip">Poseu-vos els auriculars o augmenteu el volum</string>
     <string name="projection_fail">"No s'ha pogut emetre. Comproveu el monitor extern i torneu-ho a provar."</string>
     <string name="public_2pic">Exportar a la imatge</string>
+    <string name="public_about_us">Sobre</string>
     <string name="public_amazon_autosave_finished">El document s\'ha desat automàticament</string>
     <string name="public_bad_doc_to_process">"Document no vàlid, no es pot completar l'operació"</string>
     <string name="public_bookmark">Marcador</string>
@@ -234,6 +235,7 @@
     <string name="public_mi_other_app_open_title">Obre amb</string>
     <string name="public_mi_privacy_desc">Per visualitzar i gestionar documents en aquest dispositiu</string>
     <string name="public_mi_privacy_purpose">Benvingut a Mi Doc Viewer (impulsat per WPS)! Aquesta és una versió personalitzada de l\'aplicació creada per Kingsoft per a Xiaomi. Podeu utilitzar aquesta aplicació per veure documents al vostre dispositiu.</string>
+    <string name="public_more_wps">Hi ha més funcions disponibles a WPS</string>
     <string name="public_no_format">Sense format</string>
     <string name="public_not_support_in_multiwindow">"Aquesta funció no s'admet quan utilitzeu pantalla dividida"</string>
     <string name="public_ok">D\'acord</string>

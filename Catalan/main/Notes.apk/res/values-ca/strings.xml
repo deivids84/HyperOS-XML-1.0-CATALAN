@@ -383,6 +383,8 @@
     <string name="miuix_indexer_collect">Col·leccions</string>
     <string name="miuix_indexer_selected">Seleccionat %s</string>
     <string name="miuix_item_view_role_description">Pestanya</string>
+    <string name="miuix_navigator_category_group_collapse">Col·lapse</string>
+    <string name="miuix_navigator_category_group_expand">Expandir</string>
     <string name="miuix_navigator_content_switch_description">Mostra la barra lateral</string>
     <string name="miuix_navigator_multiple_choice">Seleccionar</string>
     <string name="miuix_navigator_navigator_switch_description">Ocultar la barra lateral</string>
@@ -584,6 +586,7 @@
     <string name="pref_title_quick_note">Notes ràpides</string>
     <string name="pref_title_todo_float_mode">Utilitzeu la caixa d\'eines de tasques</string>
     <string name="preference_copied">\"%1$s\" s\'ha copiat al porta-retalls</string>
+    <string name="privacy_preference">ICP备案号：京ICP备10046444号-74A</string>
     <string name="private_entry_available">Deixa anar per obrir la carpeta privada</string>
     <string name="private_entry_default">Llisqueu cap avall per obrir la carpeta privada</string>
     <string name="progressbar_title">S’està comprovant si hi ha problemes de seguretat…</string>
@@ -756,7 +759,9 @@
     <string name="toast_message_add_image_fail">"No es pot afegir la imatge"</string>
     <string name="toast_notes_delete_success">S\'ha suprimit amb èxit</string>
     <string name="toast_notes_hidden_edit">S\'ha ocultat la nota correctament. Llisqueu cap avall per veure les notes ocultes.</string>
+    <string name="toast_notes_hidden_edit_new">Nota oculta. Tireu cap avall per veure les notes amagades.</string>
     <string name="toast_notes_hidden_home">S\'ha ocultat la nota correctament. Llisqueu cap avall per veure les notes ocultes.</string>
+    <string name="toast_notes_hidden_home_new">Nota oculta. Tireu cap avall per veure les notes amagades.</string>
     <string name="toast_notes_hidden_pad">Aquesta nota està amagada ara. Tireu cap avall el tauler lateral per veure les notes amagades.</string>
     <string name="toast_notes_unhidden">S\'ha mostrat amb èxit</string>
     <string name="toast_pic_is_not_really">S\'està desant la imatge…</string>
